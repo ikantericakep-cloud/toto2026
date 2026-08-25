@@ -1,9 +1,5 @@
-
-
-
 <!doctype html>
 <html lang="id" class="wf-roboto-n4-active wf-roboto-n7-active wf-active">
-
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
   
   <meta charset="utf-8" />
@@ -62,58 +58,46 @@
     html .cms-index-index #maincontent .custom-slider {
       display: block !important;
     }
-
     .catalog-widget .gen-wrapper .gender,
     .catalog-widget .gen-wrapper .color {
       font-size: 14px;
     }
-
     .catalog-widget .gen-wrapper .color span {
       font-weight: bold;
       font-size: 14px;
     }
-
     .catalog-widget .gen-wrapper {
       margin-top: 10px;
     }
-
     .catalog-widget .gen-wrapper .gender {
       padding-bottom: 0.5rem;
     }
-
     .fotorama__stage__shaft .fotorama__active .fotorama__img {
       width: auto;
       height: auto;
     }
-
     @media (min-width: 768px) and (max-width: 1200px) {
       .sections.nav-sections .section-items .section-item-content .ves-megamenu .navigation>ul>li.nav-item.level0 a span {
         font-size: 11px !important;
       }
-
       .nav-sections:not(.mobile-nav) .navigation {
         padding: 0 10px !important;
       }
     }
-
     @media (min-width: 768px) {
       .page-header-v1 .page-header .header-main {
         padding: 0 !important;
       }
-
       .sections.nav-sections .section-items .section-item-content .navigation li>a {
         padding: 7px 10px !important;
       }
-
       .page-header-v1 .page-header .header-main .h-navigation .sections.nav-sections {
         margin-bottom: 0 !important;
       }
     }
-
     .owl-carousel-products-upsell.owl-theme .owl-controls .owl-nav [class*="owl-"] {
       display: block !important;
     }
-
     body.catalog-product-view #maincontent #product-options-wrapper .swatch-attribute .swatch-attribute-options .swatch-option.text {
       width: 100% !important;
       max-width: 110px !important;
@@ -121,7 +105,6 @@
       margin-bottom: 5px;
       padding: 0;
     }
-
     body.catalog-product-view #maincontent #product-options-wrapper .swatch-attribute .swatch-attribute-options .swatch-option.text {
       width: 100% !important;
       max-width: 110px !important;
@@ -129,27 +112,21 @@
       margin-bottom: 5px;
       padding: 0;
     }
-
     .search.results>div#layer-product-list>.amasty-label-container img {
       display: none !important;
     }
-
     .product-item-info .amasty-label-container {
       z-index: 1;
     }
-
     .search.results>.block {
       display: none !important;
     }
-
     .checkout-cart-index .table-wrapper .loading-mask {
       display: none !important;
     }
-
     .sidebar-additional .block.block-wishlist {
       display: none;
     }
-
     .product-items .product-image-container [class*="amasty-label-container-25-"] {
       display: block !important;
       width: 90px;
@@ -158,79 +135,62 @@
       top: 0;
       left: 0;
     }
-
     #ymDivCircle img {
       width: 100% !important;
       height: 100% !important;
     }
-
     .catalog-category-view.atome-disabled .product-item-info .price-box {
       display: block;
     }
-
     .catalog-category-view.atome-disabled .product-item-info .price-box .price-wrapper-container {
       display: inline-block;
     }
-
     .catalogsearch-result-index.atome-disabled .product-item-info .price-box {
       display: block;
     }
-
     .catalogsearch-result-index.atome-disabled .product-item-info .price-box .price-wrapper-container {
       display: inline-block;
     }
-
     .catalogsearch-advanced-result.atome-disabled .product-item-info .price-box {
       display: block;
     }
-
     .catalogsearch-advanced-result.atome-disabled .product-item-info .price-box .price-wrapper-container {
       display: inline-block;
     }
-
     .page-header-v1 .page-header .header-top .store-information {
       display: none;
     }
-
     @media only screen and (max-width: 767px) {
       .post-list .post-holder .post-info {
         display: none;
       }
-
       body.catalog-category-view .column.main .products-grid .product-item .product-item-info .product_image {
         padding-bottom: 0;
         padding-top: 0;
         background-color: #fff;
       }
-
       .modal-popup.popup-newsletter.modal-slide._inner-scroll .modal-inner-wrap .modal-content .newsletter-content .image-container .newsletter.banner-image img {
         height: 100%;
       }
-
       .sections.nav-sections .section-items .section-item-content .navigation .level1.nav-dropdown .dropdown-submenu>a span,
       .sections.nav-sections .section-items .section-item-content .navigation .level2.nav-dropdown .dropdown-submenu>a span,
       .sections.nav-sections .section-items .section-item-content .navigation .level3.nav-dropdown .dropdown-submenu>a span {
         text-transform: none;
       }
     }
-
     .sections.nav-sections .section-items .section-item-content .navigation .level0 .submenu:hover .submenu-inner .content-wrapper .mega-col.mega-col-level-2 div.nav-item.level2 a span,
     .sections.nav-sections .section-items .section-item-content .navigation .level0 .submenu .submenu-inner .content-wrapper .mega-col.mega-col-level-2 div.nav-item.level2 a span {
       text-transform: none;
     }
-
     .checkout-index-index .modal-footer .secondary.action-hide-popup {
       padding: 7px;
     }
-
     .checkout-index-index .modal-footer .secondary.action-hide-popup:hover {
       text-decoration: none;
     }
-
     .page-header-v1 .page-header .header-main .h-logo .logo {
       max-width: 170px;
     }
-
     #search_bar_container {
       z-index: 101;
     }
@@ -425,22 +385,18 @@
       transform-style: flat !important;
       word-break: normal !important;
     }
-
     [data-bv-rating] path,
     [data-bv-rating] polygon {
       fill: currentColor !important;
     }
-
     [data-bv-show="inline_rating"] path,
     [data-bv-show="inline_rating"] polygon {
       fill: currentColor !important;
     }
-
     /* == END CLEANSLATE == */
     [data-bv-show="inline_rating"] .bv_incentivized_review_container {
       display: block !important;
     }
-
     [data-bv-show="inline_rating"] .bv-rating-text-container {
       position: absolute !important;
       top: 0 !important;
@@ -449,7 +405,6 @@
       width: 100% !important;
       visibility: visible !important;
     }
-
     [data-bv-show="inline_rating"] .bv-rating-text-container .bv-rating-text {
       color: #515151 !important;
       font-size: 12px !important;
@@ -466,16 +421,13 @@
       width: 100% !important;
       white-space: nowrap !important;
     }
-
     [data-bv-show="inline_rating"] .bv_inline_rating_div_container {
       display: inline-block !important;
       width: 100% !important;
     }
-
     [data-bv-show="inline_rating"] .bv_hundred_percent_width {
       width: 100% !important;
     }
-
     [data-bv-show="inline_rating"] .incentivized_text {
       color: #515151 !important;
       font-size: 12px !important;
@@ -486,11 +438,9 @@
       text-decoration: none !important;
       line-height: 19.5px !important;
     }
-
     [data-bv-show="inline_rating"] .bv_main_container.bv_hide_visibility {
       visibility: hidden !important;
     }
-
     [data-bv-rating] .bv_main_container,
     [data-bv-show="inline_rating"] .bv_main_container {
       display: flex !important;
@@ -499,29 +449,24 @@
       flex-wrap: wrap !important;
       position: relative !important;
     }
-
     [data-bv-rating] .bv_main_container .bv_stars_button_container,
     [data-bv-show="inline_rating"] .bv_main_container .bv_stars_button_container {
       overflow: hidden !important;
     }
-
     [data-bv-rating] .bv_main_container .bv_stars_svg_no_wrap,
     [data-bv-show="inline_rating"] .bv_main_container .bv_stars_svg_no_wrap {
       display: flex !important;
       align-items: center !important;
       white-space: nowrap !important;
     }
-
     [data-bv-rating] .bv_main_container .bv_stars_svg_no_wrap svg:not(:last-child),
     [data-bv-show="inline_rating"] .bv_main_container .bv_stars_svg_no_wrap svg:not(:last-child) {
       padding-right: 1px !important;
     }
-
     [data-bv-rating] .bv_main_container .bv_averageRating_component_container,
     [data-bv-show="inline_rating"] .bv_main_container .bv_averageRating_component_container {
       padding-right: 5px !important;
     }
-
     [data-bv-rating] .bv_main_container .bv_text,
     [data-bv-show="inline_rating"] .bv_main_container .bv_text {
       padding: 0.15em 0 0 0 !important;
@@ -534,12 +479,10 @@
       text-decoration: none !important;
       line-height: 19.5px !important;
     }
-
     [data-bv-rating] .bv_main_container .bv_stars_component_container,
     [data-bv-show="inline_rating"] .bv_main_container .bv_stars_component_container {
       padding-right: 5px !important;
     }
-
     [data-bv-rating] .bv_main_container .bv-off-screen,
     [data-bv-show="inline_rating"] .bv_main_container .bv-off-screen {
       position: absolute !important;
@@ -550,18 +493,15 @@
       padding: 0 !important;
       border: 0 !important;
     }
-
     [data-bv-rating] .bv_hover,
     [data-bv-show="inline_rating"] .bv_hover {
       border: 0 !important;
       background: transparent !important;
     }
-
     [data-bv-rating] .bv_hover:hover,
     [data-bv-show="inline_rating"] .bv_hover:hover {
       cursor: pointer !important;
     }
-
     .bv_ms_focusable:focus {
       border: 1px solid blue !important;
     }
@@ -571,7 +511,6 @@
       margin-right: 15px;
     }
   </style>
-
   <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/validation/validation" src="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/bundles/home-category-product-cart.js"></script>
   <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_PageBuilder/js/resource/slick/slick" src="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/bundles/home-product-category.js"></script>
   <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matchMedia" src="https://www.footlocker.id/static/version1767024442/frontend/Footlocker/default/id_ID/bundles/home-product-cart.js"></script>
@@ -591,15 +530,12 @@
     ._unbxd_strike_through_container {
       margin: 2px;
     }
-
     ._unbxd_original_price_container {
       margin: 2px;
     }
-
     ._unbxd_item_discount_text {
       margin: 2px;
     }
-
     ._unbxd_recs-slider {
       font-family:
         -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -607,7 +543,6 @@
         sans-serif;
       overflow: auto;
     }
-
     ._unbxd_recs-slider-heading {
       font-family:
         -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -615,7 +550,6 @@
         sans-serif;
       display: block;
     }
-
     ._unbxd_recs-slider__item {
       cursor: pointer;
       float: left;
@@ -629,26 +563,21 @@
       position: relative;
       list-style: none;
     }
-
     ._unbxd_recs-slider__item:last-of-type {
       margin-right: 0;
     }
-
     ._unbxd_recs-slider__item img {
       margin-bottom: 3px;
       width: 100%;
     }
-
     ._unbxd_recs-slider-container {
       margin-top: 8px;
       overflow: hidden;
       width: 100%;
     }
-
     .unbxd-recs-slider {
       position: relative;
     }
-
     ._unbxd_recs-slider-btn {
       background-color: #fff;
       border-width: 0;
@@ -663,25 +592,20 @@
       width: 30px;
       z-index: 1;
     }
-
     ._unbxd_recs-slider-btn img {
       padding: 16px 5px;
     }
-
     ._unbxd_rex-slider--prev {
       left: 5px;
     }
-
     ._unbxd_rex-slider--next {
       right: 5px;
     }
-
     ._unbxd_recs_product_details {
       display: block;
       margin-top: 4px;
       height: 112px;
     }
-
     ._unbxd_recs-slider__content {
       margin-top: 5px;
       margin-bottom: 0;
@@ -691,31 +615,25 @@
       font-style: normal;
       text-align: center;
     }
-
     ._unbxd_content--ratings .recs-star {
       height: 15px;
       width: 15px;
     }
-
     ._unbxd_content--ratings .recs-star img {
       height: inherit;
       width: inherit;
       margin: 0;
     }
-
     ._unxbd_slider_hide {
       opacity: 0;
     }
-
     ._unbxd_rating-item {
       display: inline-block;
       margin-top: 2px;
     }
-
     .unbxd--action--buttons {
       display: block;
     }
-
     .unbxd--action--buttons>a {
       position: absolute;
       background: #ffff;
@@ -723,22 +641,18 @@
       padding: 4%;
       width: 25px;
     }
-
     .unbxd--like {
       bottom: 132px;
       left: 9px;
     }
-
     .unbxd--dislike {
       bottom: 132px;
       right: 9px;
     }
-
     .unbxd--share {
       top: 15px;
       left: 9px;
     }
-
     .unbxd--wishlist {
       top: 15px;
       right: 9px;
@@ -807,15 +721,12 @@
     ._unbxd_strike_through_container {
       margin: 2px;
     }
-
     ._unbxd_original_price_container {
       margin: 2px;
     }
-
     ._unbxd_item_discount_text {
       margin: 2px;
     }
-
     ._unbxd_recs-slider {
       font-family:
         -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -823,7 +734,6 @@
         sans-serif;
       overflow: auto;
     }
-
     ._unbxd_recs-slider-heading {
       font-family:
         -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
@@ -831,7 +741,6 @@
         sans-serif;
       display: block;
     }
-
     ._unbxd_recs-slider__item {
       cursor: pointer;
       float: left;
@@ -845,26 +754,21 @@
       position: relative;
       list-style: none;
     }
-
     ._unbxd_recs-slider__item:last-of-type {
       margin-right: 0;
     }
-
     ._unbxd_recs-slider__item img {
       margin-bottom: 3px;
       width: 100%;
     }
-
     ._unbxd_recs-slider-container {
       margin-top: 8px;
       overflow: hidden;
       width: 100%;
     }
-
     .unbxd-recs-slider {
       position: relative;
     }
-
     ._unbxd_recs-slider-btn {
       background-color: #fff;
       border-width: 0;
@@ -879,25 +783,20 @@
       width: 30px;
       z-index: 1;
     }
-
     ._unbxd_recs-slider-btn img {
       padding: 16px 5px;
     }
-
     ._unbxd_rex-slider--prev {
       left: 5px;
     }
-
     ._unbxd_rex-slider--next {
       right: 5px;
     }
-
     ._unbxd_recs_product_details {
       display: block;
       margin-top: 4px;
       height: 112px;
     }
-
     ._unbxd_recs-slider__content {
       margin-top: 5px;
       margin-bottom: 0;
@@ -907,31 +806,25 @@
       font-style: normal;
       text-align: center;
     }
-
     ._unbxd_content--ratings .recs-star {
       height: 15px;
       width: 15px;
     }
-
     ._unbxd_content--ratings .recs-star img {
       height: inherit;
       width: inherit;
       margin: 0;
     }
-
     ._unxbd_slider_hide {
       opacity: 0;
     }
-
     ._unbxd_rating-item {
       display: inline-block;
       margin-top: 2px;
     }
-
     .unbxd--action--buttons {
       display: block;
     }
-
     .unbxd--action--buttons>a {
       position: absolute;
       background: #ffff;
@@ -939,29 +832,24 @@
       padding: 4%;
       width: 25px;
     }
-
     .unbxd--like {
       bottom: 132px;
       left: 9px;
     }
-
     .unbxd--dislike {
       bottom: 132px;
       right: 9px;
     }
-
     .unbxd--share {
       top: 15px;
       left: 9px;
     }
-
     .unbxd--wishlist {
       top: 15px;
       right: 9px;
     }
   </style>
 </head>
-
 <body data-container="body" class="atome-disabled theme-pearl page-product-configurable product-page-v1 product_page_v1 store-view-idn catalog-product-view product-nike-unstructured-unisex-futura-wash-cap-black-3 page-layout-1column wp-device-l device-md" id="html-body" aria-busy="false">
   <!-- MEGAMENU CUSTOM CSS -->
   <style type="text/css">
@@ -969,7 +857,6 @@
       .sections.nav-sections .section-items .section-item-content .ves-megamenu .nav-item.menu-mobile-show>a {
         visibility: visible !important;
       }
-
       .filter .filter-current {
         margin: 5px 0 0;
       }
@@ -1007,8 +894,6 @@
   <meta name="twitter:creator" content="" />
   <meta name="twitter:title" content="BOSANGKA | Sarana Togel & Toto Online Terpercaya di Asia" />
   <meta name="twitter:description" content="A mid-depth cap with classic style for any occasion, this Nike Club Cap comes in smooth cotton twill that's been softly washed for casual, daily comfort. Soft and unstructured, the precurved bill makes for easy styling, and the adjustable back-strap lets you find the right fit.
-
-
 Nike Hat Size
 6 1/2
 6 5/8
@@ -1021,8 +906,6 @@ Nike Hat Size
 7 1/2
 7 5/8
 7 3/4
-
-
 Head Size (CM)
 52
 53
@@ -1035,8 +918,6 @@ Head Size (CM)
 60
 61
 62
-
-
 Alpha Size
 -
 -
@@ -1049,23 +930,19 @@ M
 L
 -
 XL
-
-
 Swhoosh Flex
 -
 XS/S
 XS/S
-XS/S - LUNATOGEL
-XS/S - LUNATOGEL
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL LOGIN - XL-XXL
-LUNATOGEL LOGIN - XL-XXL
-
-
-Adjustable LUNATOGEL LINK
+XS/S - BOSANGKA
+XS/S - BOS ANGKA
+BOSANGKA - BOSANGKA DAFTAR - OS
+BOSANGKA - BOSANGKA RESMI - OS
+BOSANGKA - BOSANGKA LINK - OS
+BOSANGKA - BOSANGKA AKSES - OS
+BOSANGKA LOGIN - XL-XXL
+BOSANGKA RESMI - XL-XXL
+Adjustable BOSANGKA LINK
 XS
 XS
 XS - S - OS
@@ -1077,8 +954,6 @@ S - OS - XL
 OS - XL
 OS - XL
 XL
-
-
 Adjustable Women's
 S
 S
@@ -1091,43 +966,33 @@ OS - L
 L
 L
 L
-
-
-Dual Size LUNATOGEL
+Dual Size BOSANGKA
 -
 -
 -
 XS/S
 -
-LUNATOGEL LOGIN
+BOSANGKA LOGIN
 -
-LUNATOGEL LINK
+BOSANGKA LINK
 -
-LUNATOGEL DAFTAR
+BOSANGKA DAFTAR
 -
-
-
 Dual Size Women's
 -
 -
-LUNATOGEL RESMI
+BOSANGKA RESMI
 -
-LUNATOGEL LINK ALTERNATIF
+BOSANGKA LINK ALTERNATIF
 -
-LUNATOGEL LOGIN ALTERNATIF
--
--
+BOSANGKA LOGIN ALTERNATIF
 -
 -
-
-
-
+-
+-
 Size Disclaimer:
-
 There may be a 1-2cm difference in measurements depending on the development and manufacturing process.
-
 Color Disclaimer:
-
 Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.
 " />
   <meta name="twitter:image" content="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" />
@@ -1142,8 +1007,6 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
   <meta property="og:title" content="BOSANGKA | Sarana Togel & Toto Online Terpercaya di Asia" />
   <meta property="og:image" content="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" />
   <meta property="og:description" content="A mid-depth cap with classic style for any occasion, this Nike Club Cap comes in smooth cotton twill that's been softly washed for casual, daily comfort. Soft and unstructured, the precurved bill makes for easy styling, and the adjustable back-strap lets you find the right fit.
-
-
 Nike Hat Size
 6 1/2
 6 5/8
@@ -1156,8 +1019,6 @@ Nike Hat Size
 7 1/2
 7 5/8
 7 3/4
-
-
 Head Size (CM)
 52
 53
@@ -1170,8 +1031,6 @@ Head Size (CM)
 60
 61
 62
-
-
 Alpha Size
 -
 -
@@ -1184,23 +1043,19 @@ M
 L
 -
 XL
-
-
 Swhoosh Flex
 -
 XS/S
 XS/S
-XS/S - LUNATOGEL
-XS/S - LUNATOGEL
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL - LUNATOGEL LOGIN - OS
-LUNATOGEL LOGIN - XL-XXL
-LUNATOGEL LOGIN - XL-XXL
-
-
-Adjustable LUNATOGEL LOGIN
+XS/S - BOSANGKA
+XS/S - BOSSANGKA
+BOSANGKA - BOSANGKA LOGIN - OS
+BOSANGKA - BOSANGKA LINK - OS
+BOSANGKA - BOSANGKA ALTERNATIF  - OS
+BOSANGKA - BOSANGKA RESMI - OS
+BOSANGKA DAFTAR - XL-XXL
+BOSANGKA AKSES - XL-XXL
+Adjustable BOSANGKA LOGIN
 XS
 XS
 XS - S - OS
@@ -1212,8 +1067,6 @@ S - OS - XL
 OS - XL
 OS - XL
 XL
-
-
 Adjustable Women's
 S
 S
@@ -1226,42 +1079,32 @@ OS - L
 L
 L
 L
-
-
 -
 -
 -
 XS/S
 -
-LUNATOGEL
+BOSANGKA TERBARU
 -
-LUNATOGEL LINK
+BOSANGKA LINK
 -
-LUNATOGEL LOGIN
+BOSANGKA LOGIN
 -
-
-
 Dual Size Women's
 -
 -
-LUNATOGEL
+BOSANGKA
 -
-LUNATOGEL DAFTAR
+BOSANGKA DAFTAR
 -
-LUNATOGEL LOGIN
--
--
+BOSANGKA LOGIN
 -
 -
-
-
-
+-
+-
 Size Disclaimer:
-
 There may be a 1-2cm difference in measurements depending on the development and manufacturing process.
-
 Color Disclaimer:
-
 Actual colors may vary. This is due to the fact that every computer monitor has a different capability to display colors, we cannot guarantee that the color you see accurately portrays the true color of the product.
 " />
   <meta property="og:url" content="###/
@@ -1353,7 +1196,6 @@ Actual colors may vary. This is due to the fact that every computer monitor has 
                       background-repeat: no-repeat;
                       background-attachment: scroll;
                     }
-
                     #html-body [data-pb-style="M6THEQS"],
                     #html-body [data-pb-style="VXFWSGO"] {
                       border-style: none;
@@ -1711,16 +1553,16 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         <a href="$$$" id="idysEtTf9m" class="Magento\Customer\Block\Account\AuthorizationLink">Masuk | Daftar</a>
                       </li>
                       <li class="nav item">
-                        <a href="$$$">LUNATOGEL</a>
+                        <a href="$$$">BOSANGKA</a>
                       </li>
                       <li class="nav item">
-                        <a href="$$$">LUNATOGEL LOGIN</a>
+                        <a href="$$$">BOSANGKA LOGIN</a>
                       </li>
                       <li class="nav item">
-                        <a href="$$$">LUNATOGEL LINK</a>
+                        <a href="$$$">BOSANGKA LINK</a>
                       </li>
                       <li class="nav item">
-                        <a href="$$$" class="top-header-link-faq">LUNATOGEL DAFTAR</a>
+                        <a href="$$$" class="top-header-link-faq">BOSANGKA DAFTAR</a>
                       </li>
                     </ul>
                   </div>
@@ -1730,7 +1572,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         display: block;
                       }
                     }
-
                     .page-header-v1 .page-header .header-top .custom-slider {
                       min-height: 20px !important;
                     }
@@ -1766,14 +1607,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                       gap: 8px;
                       padding: 6px 0 0;
                     }
-
                     .weltpixel_multistore .current-store span {
                       font-size: 12px;
                       padding-left: 5px;
                       font-weight: 700;
                       color: #fff;
                     }
-
                     .weltpixel_multistore .store-switcher-dropdown {
                       list-style: none;
                       margin: 0;
@@ -1785,22 +1624,18 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                       z-index: 1000;
                       min-width: 160px;
                     }
-
                     .weltpixel_multistore.open .store-switcher-dropdown {
                       display: block;
                     }
-
                     .weltpixel_multistore .store-switcher-dropdown li {
                       padding: 5px 10px;
                       display: flex;
                       align-items: center;
                       gap: 8px;
                     }
-
                     .weltpixel_multistore .store-switcher-dropdown li:hover {
                       background-color: #f1f1f1;
                     }
-
                     .weltpixel_multistore img {
                       width: 21px;
                       height: 21px;
@@ -1839,7 +1674,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                 <span class="action nav-toggle"><span>Toggle Nav</span></span>
                 <a class="logo" href="###/
 "title="" aria-label="store logo">
-                  <img src="https://gambarbos.io/img/2026/agustus/24/gifbos.webp" title="" alt="LUNATOGEL logo" width="170" />
+                  <img src="https://gambarbos.io/img/2026/agustus/24/gifbos.webp" title="" alt="BOSANGKA logo" width="170" />
                 </a>
               </div>
               <div class="col-md-2 col-xs-5 col-sm-5 h-panel main-header-right">
@@ -1856,7 +1691,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         text-transform: uppercase;
                         background: #ffffff;
                         color: #003776;
-                        "> Login </a>
+                        "> Login Disini </a>
                   <a href="$$$" style="
                         padding: 8px 16px;
                         border: 1px solid #000;
@@ -1865,7 +1700,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         text-transform: uppercase;
                         background: #003776;
                         color: #ffffff;
-                        "> Daftar </a>
+                        "> Daftar Disini </a>
                 </div>
               </div>
               <div class="col-md-8 col-xs-12 col-sm-12 h-search responsive-main-header h-panel sk-mini-cart">
@@ -1878,7 +1713,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           <span>Cari</span>
                         </label>
                         <div class="control">
-                          <input id="search" type="text" name="q" value="" placeholder="Cari LUNATOGEL di Google" class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off" aria-expanded="false" />
+                          <input id="search" type="text" name="q" value="" placeholder="Cari BOSANGKA di Google" class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off" aria-expanded="false" />
                           <div id="search_autocomplete" class="search-autocomplete"></div>
                           <div class="nested">
                             <a class="action advanced" href="https://www.footlocker.id/catalogsearch/advanced/" data-action="advanced-search"> Advanced Search </a>
@@ -1930,15 +1765,15 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                       <ul id="nav17685419036969cecf04b7f" class="nav17685419036969cecf04b7f ui-menu ui-widget ui-widget-content" data-toggle-mobile-nav="false" role="menu" tabindex="0" aria-activedescendant="ui-id-8">
                         <li id="vesitem-7381768541902449662241" class="nav-item level0 nav-1 submenu-left subhover dropdown level-top category-item ui-menu-item">
                           <a href="###/
-"title="LUNATOGEL" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-2" tabindex="-1" role="menuitem"><span>LUNATOGEL</span></a>
+"title="BOSANGKA" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-2" tabindex="-1" role="menuitem"><span>BOSANGKA</span></a>
                         </li>
                         <li id="vesitem-112617685419021512837329" class="nav-item level0 nav-2 submenu-alignleft subhover dropdown level-top category-item ui-menu-item">
                           <a href="###/
-"title="LUNATOGEL LINK" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-3" tabindex="-1" role="menuitem"><span>LUNATOGEL LINK</span></a>
+"title="BOSANGKA LINK" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-3" tabindex="-1" role="menuitem"><span>BOSANGKA LINK</span></a>
                         </li>
                         <li id="vesitem-9671768541902261764118" class="nav-item level0 nav-3 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
                           <a href="###/
-"title="LUNATOGEL LOGIN" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-4" tabindex="-1" role="menuitem"><span>LUNATOGEL LOGIN</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+"title="BOSANGKA LOGIN" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-4" tabindex="-1" role="menuitem"><span>BOSANGKA LOGIN</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%" id="ui-id-5" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2448,8 +2283,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           </div>
                         </li>
                         <li id="vesitem-10051768541902782048993" class="nav-item level0 nav-4 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
-                          <a href="###/
-"title="LUNATOGEL DAFTAR" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-6" tabindex="-1" role="menuitem"><span>LUNATOGEL DAFTAR</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%" id="ui-id-7" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -2936,8 +2769,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </li>
                         <li id="vesitem-102217685419021770810440" class="nav-item level0 nav-5 submenu-left subhover dropdown level-top category-item parent ui-menu-item">
                           <a href="###/
-"title="LUNATOGEL RESMI" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-8" tabindex="-1" role="menuitem"><span>LUNATOGEL RESMI</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
-                          <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 100%; top: 44px" id="ui-id-9" tabindex="-1" role="menuitem">
+"title="BOSANGKA RESMI" target="_self" class="nav-anchor ui-menu-item-wrapper" id="ui-id-8" tabindex="-1" role="menuitem"><span>BOSANGKA RESMI</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                          <div class="submenu dropdown-menu ui-menu-item-wrapper" style="width: 80%; top: 44px" id="ui-id-9" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
                             </div>
@@ -3607,10 +3440,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </li>
                         <li id="vesitem-101768541902208404789" class="nav-item level0 nav-6 submenu-left subhover dropdown level-top category-item parent ui-menu-item" data-animation-in="fadeIn" data-color="#303030" data-hover-color="#303030" data-bgcolor="transparent" data-hover-bgcolor="transparent">
                           <a href="###/
-"title="LUNATOGEL" target="_self" data-hover-color="#303030" data-hover-bgcolor="transparent" data-color="#303030" data-bgcolor="transparent" style="
+"title="BOSANGKA" target="_self" data-hover-color="#303030" data-hover-bgcolor="transparent" data-color="#303030" data-bgcolor="transparent" style="
                                 color: #303030;
                                 background-color: transparent;
-                              " class="nav-anchor ui-menu-item-wrapper" id="ui-id-10" tabindex="-1" role="menuitem"><span>LUNATOGEL LINK ALTERNATIF</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
+                              " class="nav-anchor ui-menu-item-wrapper" id="ui-id-10" tabindex="-1" role="menuitem"><span>BOSANGKA LINK ALTERNATIF</span><span class="opener"></span><span class="drill-opener" style="display: none"></span></a>
                           <div class="submenu dropdown-menu animated fadeIn ui-menu-item-wrapper" data-animation-in="fadeIn" style="animation-duration: 0.8s; width: 100%" id="ui-id-11" tabindex="-1" role="menuitem">
                             <div class="drilldown-back">
                               <a href="#"><span class="drill-opener" style="display: none"></span><span class="current-cat"></span></a>
@@ -4010,7 +3843,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </li>
                         <li id="vesitem-7241768541902288615773" class="nav-item level0 nav-7 submenu-alignleft subhover dropdown level-top sale category-item ui-menu-item" data-color="#ffd700 ">
                           <a href="###/
-"title="LUNATOGEL LOGIN ALTERNATIF" target="_self" data-color="#ffd700 " style="color: #ffd700; color: #ffd700 !important" class="nav-anchor ui-menu-item-wrapper" id="ui-id-12" tabindex="-1" role="menuitem"><span>LUNATOGEL LOGIN ALTERNATIF</span></a>
+"title="BOSANGKA LOGIN ALTERNATIF" target="_self" data-color="#ffd700 " style="color: #ffd700; color: #ffd700 !important" class="nav-anchor ui-menu-item-wrapper" id="ui-id-12" tabindex="-1" role="menuitem"><span>BOSANGKA LOGIN ALTERNATIF</span></a>
                         </li>
                       </ul>
                     </nav>
@@ -4222,13 +4055,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                     </li>
                   </div>
                   <li class="nav item">
-                    <a href="https://www.footlocker.id/storelocator">LUNATOGEL/a>
+                    <a href="https://www.footlocker.id/storelocator">BOSANGKA/a>
                   </li>
                   <li class="nav item">
-                    <a href="https://www.footlocker.id/trackorder/track">lunatogel</a>
+                    <a href="https://www.footlocker.id/trackorder/track">BOSANGKA</a>
                   </li>
                   <li class="nav item">
-                    <a href="https://www.footlocker.id/faq-id">LUNATOGEL LOGIN</a>
+                    <a href="https://www.footlocker.id/faq-id">BOSANGKA LOGIN</a>
                   </li>
                 </div>
                 <div class="additional-login-mobile" style="display: none">
@@ -4299,7 +4132,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   gap: 30px; /* Jarak megah antar tombol */
   padding: 0 20px;
 }
-
 /* Tombol Utama - Panjang Asli & Kokoh Berbasis Emas #ffd700 */
 .button {
   width: 460px; /* UKURAN ASLI PANJANG */
@@ -4332,7 +4164,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   box-shadow: 0 8px 25px rgba(184, 134, 11, 0.4), 
               inset 0 1px 3px rgba(255, 255, 255, 0.5);
 }
-
 /* Animasi Kilatan Cahaya Kaca (Shimmer Effect) Berjalan Otomatis */
 .button::before {
   content: '';
@@ -4347,14 +4178,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   z-index: 2;
   animation: goldShine 3.5s infinite ease-in-out;
 }
-
 /* HOVER EFFECT - Transformasi Emas Menyala (Solid Gold Glow) */
 .button:hover {
   transform: translateY(-5px) scale(1.02); /* Ukuran sedikit memanjang & terangkat */
   
   /* Latar belakang bergeser menjadi Emas Terang Penuh */
   background-position: right center;
-  background: linear-gradient(135deg, #fff3a1 0%, #ffd700 50%, #ffaa00 100%);
+  background: linear-gradient(135deg, #ff0000 0%, #ff0000 50%, #ff0000 100%);
   border-color: #ffffff;
   color: #000000; /* Tetap hitam pekat agar keterbacaan teks 100% sempurna */
   
@@ -4363,13 +4193,11 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               0 0 15px rgba(255, 215, 0, 0.4),
               inset 0 0 10px rgba(255, 255, 255, 0.8);
 }
-
 /* Efek Ketika Ditekan Klik */
 .button:active {
   transform: translateY(-2px) scale(1.01);
   box-shadow: 0 5px 15px rgba(255, 215, 0, 0.5);
 }
-
 /* Divider Pembatas Tengah Elegan Senada */
 .divider {
   width: 4px;
@@ -4379,14 +4207,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   border-radius: 50%;
   flex-shrink: 0;
 }
-
 /* --- KEYFRAMES ANIMASI KILATAN EMAS --- */
 @keyframes goldShine {
   0% { left: -150%; }
   30% { left: 150%; }
   100% { left: 150%; }
 }
-
 /* RESPONSIVE LAYOUT UNTUK HP */
 @media (max-width: 992px) {
   .button-container {
@@ -4403,13 +4229,11 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   }
 }
 </style>
-
 <div class="button-container">
-  <a class="button" href="$$$" target="_blank">DAFTAR</a>
+  <a class="button" href="$$$" target="_blank">DAFTAR BOSANGKA</a>
   <div class="divider"></div>
-  <a class="button" href="$$$" target="_blank">LOGIN</a>
+  <a class="button" href="$$$" target="_blank">LOGIN BOSANGKA</a>
 </div>
-
       <ul class="items">
         <li class="item home">
           <a href="###/
@@ -4445,7 +4269,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                   <div class="value"> BOSANGKA | Sarana Togel & Toto Online Terpercaya di Asia </div>
                 </div>
                 <div class="prod-attributes">
-                  <div class="gender">LUNATOGEL LOGIN ALTERNATIF</div>
+                  <div class="gender">BOSANGKA LOGIN ALTERNATIF</div>
                   <!-- Dynamic Variant SKU (will be updated by swatch-renderer.js) -->
                   <div class="sku" data-has-global-sku="false"> | <div class="value">2514-H1N03621452</div>
                   </div>
@@ -4473,7 +4297,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                       padding: 2px;
                       height: 80px;
                     }
-
                     .fotorama1768680166529 .fotorama__thumb-border {
                       height: 80px;
                       border-width: 2px;
@@ -4499,10 +4322,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 transition-duration: 0ms;
                                 opacity: 1;
                               " data-active="true" href="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp">
-                            <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="LUNATOGEL" class="fotorama__img" aria-hidden="false" />
+                            <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="BOSANGKA" class="fotorama__img" aria-hidden="false" />
                           </div>
                           <div class="fotorama__stage__frame fotorama_vertical_ratio fotorama__loaded fotorama__loaded--img" aria-hidden="true" style="left: 0px; transition-duration: 0ms" href="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp">
-                            <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="LUNATOGEL" class="fotorama__img" aria-hidden="false" />
+                            <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="BOSANGKA" class="fotorama__img" aria-hidden="false" />
                           </div>
                         </div>
                         <div class="fotorama__arr fotorama__arr--next" tabindex="0" role="button" aria-label="Next" data-gallery-role="arrow" style="right: 82px">
@@ -4528,14 +4351,14 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                   width: 80px;
                                   height: 80px;
                                 "></div>
-                            <div class="fotorama__nav__frame fotorama__nav__frame--thumb fotorama__active hidden" tabindex="0" role="button" data-gallery-role="nav-frame" data-nav-type="thumb" aria-label="LUNATOGEL" style="width: 80px" data-active="true">
+                            <div class="fotorama__nav__frame fotorama__nav__frame--thumb fotorama__active hidden" tabindex="0" role="button" data-gallery-role="nav-frame" data-nav-type="thumb" aria-label="BOSANGKA" style="width: 80px" data-active="true">
                               <div class="fotorama__thumb fotorama_vertical_ratio fotorama__loaded fotorama__loaded--img">
-                                <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="LUNATOGEL" class="fotorama__img" aria-hidden="false" />
+                                <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="BOSANGKA" class="fotorama__img" aria-hidden="false" />
                               </div>
                             </div>
-                            <div class="fotorama__nav__frame fotorama__nav__frame--thumb" tabindex="0" role="button" data-gallery-role="nav-frame" data-nav-type="thumb" aria-label="LUNATOGEL" style="width: 80px">
+                            <div class="fotorama__nav__frame fotorama__nav__frame--thumb" tabindex="0" role="button" data-gallery-role="nav-frame" data-nav-type="thumb" aria-label="BOSANGKA" style="width: 80px">
                               <div class="fotorama__thumb fotorama_vertical_ratio fotorama__loaded fotorama__loaded--img">
-                                <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="LUNATOGEL" class="fotorama__img" aria-hidden="false" />
+                                <img src="https://gambarbos.io/img/2026/agustus/25/saranatogel.webp" alt="BOSANGKA" class="fotorama__img" aria-hidden="false" />
                               </div>
                             </div>
                           </div>
@@ -4562,7 +4385,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               <div class="product attibute brand">
                 <a href="###/
 ">
-                  <h2 class="value pdp-brand-title" itemprop="brand" style="color: rgb(128, 119, 0);">LUNATOGEL</h2>
+                  <h2 class="value pdp-brand-title" itemprop="brand" style="color: rgb(128, 119, 0);">BOSANGKA</h2>
                 </a>
               </div>
               <div class="page-title-wrapper product">
@@ -4571,7 +4394,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                 </h1>
               </div>
               <div class="prod-attributes">
-                <div class="gender">LUNATOGEL LINK</div>
+                <div class="gender">BOSANGKA LINK</div>
                 <!-- Dynamic Variant SKU (will be updated by swatch-renderer.js) -->
                 <div class="sku" data-has-global-sku="false"> | <div class="value">2514-H1N03621452</div>
                 </div>
@@ -4580,7 +4403,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                 <div class="price-box price-final_price" data-role="priceBox" data-product-id="52165" data-price-box="product-id-52165">
                   <div class="price-wrapper-container">
                     <span class="price-container price-final_price tax weee">
-                      <span id="product-price-52165" data-price-amount="9999" data-price-type="finalPrice" class="price-wrapper"><span class="price">Rp. 10.000</span></span>
+                      <span id="product-price-52165" data-price-amount="9999" data-price-type="finalPrice" class="price-wrapper"><span class="price">Rp. 5.000</span></span>
                     </span>
                   </div>
                 </div>
@@ -4720,7 +4543,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               <div class="payment_emi"> Bayar dengan cicilan 0% x 4 sebesar <strong> <span class="price">Rp. 799</span></strong>
               </div>
               <div style="position: absolute; left: -20914565266523px; top: 0px;"><a href="###/
-"target="_blank">LUNATOGEL</a></div>
+"target="_blank">BOSANGKA</a></div>
               <div class="product-add-form">
                 <form data-product-sku="2514-H1N03621452" action="https://www.footlocker.id/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuZm9vdGxvY2tlci5pZC9uaWtlLXVuc3RydWN0dXJlZC11bmlzZXgtZnV0dXJhLXdhc2gtY2FwLWJsYWNrLTMuaHRtbA%2C%2C/product/52165/" method="post" id="product_addtocart_form" novalidate="novalidate">
                   <input type="hidden" name="product" value="52165" />
@@ -4741,16 +4564,16 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                       </div>
                       <div class="swatch-opt" data-role="swatch-options" data-country-dd-status="0" data-country-selected-value="us">
                         <div class="swatch-attribute size expanded" attribute-code="size" attribute-id="182">
-                          <span id="option-label-size-182" class="swatch-attribute-label">HT OFFICIAL</span><span class="swatch-attribute-selected-option"></span>
+                          <span id="option-label-size-182" class="swatch-attribute-label">© Copyright 2026 BOSANGKA ❌ ELCABALLO</span><span class="swatch-attribute-selected-option"></span>
                           <div aria-activedescendant="" tabindex="0" aria-invalid="false" aria-required="true" role="listbox" aria-labelledby="option-label-size-182" class="swatch-attribute-options clearfix swatch--">
-                            <div class="swatch-option text" id="option-label-size-182-item-7591" index="0" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="7591" option-label="LUNATOGEL" aria-label="LUNATOGEL" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL </div>
-                            <div class="swatch-option text" id="option-label-size-182-item-663" index="1" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="663" option-label="LUNATOGEL LOGIN" aria-label="LUNATOGEL LOGIN" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL LOGIN" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL LOGIN </div>
-                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="LUNATOGEL LINK" aria-label="LUNATOGEL LINK" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL LINK" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL LINK </div>
-                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="LUNATOGEL DAFTAR" aria-label="LUNATOGEL DAFTAR" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL DAFTAR" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL DAFTAR </div>
-                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="LUNATOGEL RESMI" aria-label="LUNATOGEL RESMI" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL RESMI" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL RESMI </div>
-                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="LUNATOGEL LINK ALTERNATIF" aria-label="LUNATOGEL LINK ALTERNATIF" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL LINK ALTERNATIF" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL LINK ALTERNATIF </div>
-                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="LUNATOGEL LOGIN ALTERNATIF" aria-label="LUNATOGEL LOGIN ALTERNATIF" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL LOGIN ALTERNATIF" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL LOGIN ALTERNATIF </div>
-                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="LUNATOGEL ALTERNATIF" aria-label="LUNATOGEL ALTERNATIF" option-tooltip-thumb="" option-tooltip-value="LUNATOGEL ALTERNATIF" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> LUNATOGEL ALTERNATIF </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-7591" index="0" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="7591" option-label="BOSANGKA" aria-label="BOSANGKA" option-tooltip-thumb="" option-tooltip-value="BOSANGKA" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-663" index="1" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="663" option-label="BOSANGKA LOGIN" aria-label="BOSANGKA LOGIN" option-tooltip-thumb="" option-tooltip-value="BOSANGKA LOGIN" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA LOGIN </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="BOSANGKA LINK" aria-label="BOSANGKA LINK" option-tooltip-thumb="" option-tooltip-value="BOSANGKA LINK" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA LINK </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="BOSANGKA DAFTAR" aria-label="BOSANGKA DAFTAR" option-tooltip-thumb="" option-tooltip-value="BOSANGKA DAFTAR" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA DAFTAR </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="BOSANGKA RESMI" aria-label="BOSANGKA RESMI" option-tooltip-thumb="" option-tooltip-value="BOSANGKA RESMI" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA RESMI </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="BOSANGKA LINK ALTERNATIF" aria-label="BOSANGKA LINK ALTERNATIF" option-tooltip-thumb="" option-tooltip-value="BOSANGKA LINK ALTERNATIF" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA LINK ALTERNATIF </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="BOSANGKA LOGIN ALTERNATIF" aria-label="BOSANGKA LOGIN ALTERNATIF" option-tooltip-thumb="" option-tooltip-value="BOSANGKA LOGIN ALTERNATIF" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA LOGIN ALTERNATIF </div>
+                            <div class="swatch-option text" id="option-label-size-182-item-664" index="2" aria-checked="false" aria-describedby="option-label-size-182" tabindex="0" option-type="0" option-id="664" option-label="BOSANGKA ALTERNATIF" aria-label="BOSANGKA ALTERNATIF" option-tooltip-thumb="" option-tooltip-value="BOSANGKA ALTERNATIF" role="option" thumb-width="40" thumb-height="40" eu_label="null" uk_label="null" us_label="null"> BOSANGKA ALTERNATIF </div>
                           </div>
                           <input class="swatch-input super-attribute-select" name="super_attribute[182]" type="text" value="" data-selector="super_attribute[182]" data-validate="{required: true}" aria-required="true" aria-invalid="false" />
                         </div>
@@ -4837,11 +4660,11 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                         </div>
                         <div class="actions hidden-md hidden-lg hidden" id="product-addtocart-action-m">
                           <button type="submit" title="Tambah Ke Keranjang" class="action primary tocart product-addtocart-button-cls" disabled="disabled">
-                            <a href="$$$" class="register"><span>DAFTAR</span></a>
+                            <a href="$$$" class="register"><span>DAFTAR SEKARANG</span></a>
                           </button>
                           <div class="buynow-button">
                             <button type="submit" title="Beli Sekarang" id="buy-now" class="action primary">
-                              <a href="$$$" class="login"><span>LOGIN</span></a>
+                              <a href="$$$" class="login"><span>LOGIN SEKARANG</span></a>
                             </button>
                           </div>
                           <div id="instant-purchase" data-bind="scope:'instant-purchase'">
@@ -5029,36 +4852,29 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             transform-style: flat !important;
                             word-break: normal !important;
                           }
-
                           /* Necessary because cursor: auto breaks our hover styling */
                           [data-bv-show="rating_summary"] svg,
                           [data-bv-show="rating_summary"] polygon {
                             cursor: inherit !important;
                           }
-
                           [data-bv-show="rating_summary"] div {
                             display: block !important;
                           }
-
                           [data-bv-show="rating_summary"] a {
                             color: blue !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] a:visited {
                             color: #529 !important;
                           }
-
                           [data-bv-show="rating_summary"] a,
                           [data-bv-show="rating_summary"] a * {
                             cursor: pointer !important;
                           }
-
                           [data-bv-show="rating_summary"] path,
                           [data-bv-show="rating_summary"] polygon {
                             fill: currentColor !important;
                           }
-
                           /* == ROOT CONTAINER ELEMENT == */
                           /* This contains default values for child elements to inherit  */
                           [data-bv-show="rating_summary"] {
@@ -5075,7 +4891,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             text-decoration: none !important;
                             list-style-type: disc !important;
                           }
-
                           /* == END CLEANSLATE == */
                           [data-bv-show="rating_summary"] .bv_main_container {
                             display: inline-flex !important;
@@ -5106,34 +4921,28 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             border-top-left-radius: 0px !important;
                             border-top-right-radius: 0px !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_main_container_row_flex {
                             display: inline-flex !important;
                             align-items: center !important;
                             padding-right: 1em !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_main_container_row_normal {
                             width: 100% !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_main_container_CTA_row {
                             display: inline-flex !important;
                             padding-top: 0.5em !important;
                             width: 100% !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_main_container_line_break {
                             margin-top: 0.5em !important;
                             width: 100% !important;
                             max-width: 18em !important;
                             border-bottom: 1px solid #cecece !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_microdata_hidden {
                             display: none !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_zero_ratings_text_container {
                             padding-right: 1em !important;
                             overflow: hidden !important;
@@ -5150,14 +4959,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: none !important;
                           }
-
                           @media screen and (max-width: 450px) {
                             [data-bv-show="rating_summary"] .bv_main_container .bv_zero_ratings_text_container {
                               max-width: 90vw !important;
                               margin: 10px 0 !important;
                             }
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_avgRating_component_container {
                             display: flex !important;
                             align-items: center !important;
@@ -5170,7 +4977,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_avgRating_component_container:hover {
                             cursor: pointer !important;
                             color: #0e1111 !important;
@@ -5181,7 +4987,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_avgRating_component_container:visited {
                             color: #036ad8 !important;
                             font-family: Roboto, Arial, sans-serif !important;
@@ -5190,19 +4995,16 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_numReviews_component_container {
                             display: flex !important;
                             align-items: center !important;
                             white-space: nowrap !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_numReviews_delimeter {
                             padding-right: 0.1em !important;
                             color: #ccc !important;
                             font-size: 14px !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_numReviews_text {
                             white-space: nowrap !important;
                             color: #036ad8 !important;
@@ -5213,7 +5015,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_numReviews_text:hover {
                             cursor: pointer !important;
                             color: #0e1111 !important;
@@ -5224,7 +5025,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_numReviews_text:visited {
                             color: #036ad8 !important;
                             font-family: Roboto, Arial, sans-serif !important;
@@ -5233,7 +5033,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_percentRecommend_component_container {
                             padding-top: 0.5em !important;
                             color: #515151 !important;
@@ -5244,7 +5043,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: none !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_incentivized_component_container {
                             padding-top: 0.5em !important;
                             padding-bottom: 0.3em !important;
@@ -5256,7 +5054,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: none !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_questionsAndAnswers_component_container {
                             padding-top: 0.5em !important;
                             color: #515151 !important;
@@ -5267,7 +5064,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: none !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_questionsAndAnswers_component_container>a,
                           [data-bv-show="rating_summary"] .bv_main_container .bv_questionsAndAnswers_component_container button {
                             padding: 0 !important;
@@ -5279,7 +5075,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_questionsAndAnswers_component_container>a:hover,
                           [data-bv-show="rating_summary"] .bv_main_container .bv_questionsAndAnswers_component_container button:hover {
                             cursor: pointer !important;
@@ -5291,7 +5086,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_questionsAndAnswers_component_container>a:visited,
                           [data-bv-show="rating_summary"] .bv_main_container .bv_questionsAndAnswers_component_container button:visited {
                             color: #036ad8 !important;
@@ -5301,12 +5095,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_ms_focusable>a:focus,
                           [data-bv-show="rating_summary"] .bv_main_container .bv_ms_focusable button:focus {
                             border: 1px solid blue !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_stars_component_container {
                             display: flex !important;
                             align-items: center !important;
@@ -5314,19 +5106,15 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             white-space: nowrap !important;
                             padding-right: 1em !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_stars_component_container span {
                             display: inherit !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_stars_component_container svg:not(:last-child) {
                             padding-right: 1px !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_stars_component_container:hover {
                             cursor: pointer !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_button_buttonFull {
                             padding: 0.5em 1em 0.5em 1em !important;
                             align-self: center !important;
@@ -5362,7 +5150,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             border-top-left-radius: 0px !important;
                             border-top-right-radius: 0px !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_button_buttonFull:hover {
                             cursor: pointer !important;
                             background-image: none !important;
@@ -5376,7 +5163,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-size: 14px !important;
                             text-decoration: none !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_button_buttonMinimalist {
                             color: #036ad8 !important;
                             font-size: 14px !important;
@@ -5386,7 +5172,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_button_buttonMinimalist:hover {
                             cursor: pointer !important;
                             color: #0e1111 !important;
@@ -5397,7 +5182,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_button_buttonMinimalist:visited {
                             color: #036ad8 !important;
                             font-family: Roboto, Arial, sans-serif !important;
@@ -5406,11 +5190,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_ms_focusable:focus {
                             border: 1px solid blue !important;
                           }
-
                           [data-bv-show="rating_summary"] .bv_main_container .bv_offscreen_text {
                             position: absolute !important;
                             width: 1px !important;
@@ -5420,7 +5202,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             padding: 0 !important;
                             border: 0 !important;
                           }
-
                           div.bv_modal_component_container[data-bv-modal] {
                             display: flex !important;
                             flex-wrap: wrap !important;
@@ -5428,7 +5209,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             z-index: 1000 !important;
                             background-color: #ffffff !important;
                           }
-
                           div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content:before {
                             content: "";
                             display: inline-flex !important;
@@ -5442,7 +5222,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             transform: rotate(-134Deg) !important;
                             background-color: #ffffff !important;
                           }
-
                           div.bv_modal_component_container[data-bv-modal] .bv_modal_outer_content {
                             margin: 0 auto !important;
                             display: inline-flex !important;
@@ -5451,17 +5230,14 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             border: 1px solid black !important;
                             max-width: 270px !important;
                           }
-
                           .bv_histogram_component_container {
                             min-width: 200px !important;
                           }
-
                           .bv_histogram_row_prefix {
                             display: table-cell !important;
                             vertical-align: middle !important;
                             white-space: nowrap !important;
                           }
-
                           .bv_histogram_row_container {
                             min-width: 200px !important;
                             height: 25px !important;
@@ -5477,11 +5253,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: none !important;
                           }
-
                           .bv_histogram_row_container:hover {
                             background-color: #f7f7f7 !important;
                           }
-
                           .bv_histogram_row_bar_empty {
                             border-radius: 2px !important;
                             height: 10px !important;
@@ -5492,7 +5266,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             background-color: #ccc !important;
                             background-color: #cccccc !important;
                           }
-
                           .bv_histogram_row_bar_filled {
                             border-radius: 2px !important;
                             height: 10px !important;
@@ -5502,7 +5275,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 rgba(255, 255, 255, 0) 100%) !important;
                             background-color: #515151 !important;
                           }
-
                           .bv_histogram_row_full_bar {
                             display: table-cell !important;
                             padding-left: 10px !important;
@@ -5510,18 +5282,15 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             width: 100% !important;
                             vertical-align: middle !important;
                           }
-
                           .bv_histogram_row_rating {
                             display: table-cell !important;
                             vertical-align: middle !important;
                             text-align: center !important;
                           }
-
                           .bv_histogram_row_star {
                             vertical-align: middle !important;
                             margin-left: 2px;
                           }
-
                           .bv_button_buttonFull {
                             padding: 0.5em 1em 0.5em 1em !important;
                             align-self: center !important;
@@ -5557,7 +5326,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             border-top-left-radius: 0px !important;
                             border-top-right-radius: 0px !important;
                           }
-
                           .bv_button_buttonFull:hover {
                             cursor: pointer !important;
                             background-image: none !important;
@@ -5571,7 +5339,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-size: 14px !important;
                             text-decoration: none !important;
                           }
-
                           .bv_button_buttonMinimalist {
                             color: #036ad8 !important;
                             font-size: 14px !important;
@@ -5581,7 +5348,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           .bv_button_buttonMinimalist:hover {
                             cursor: pointer !important;
                             color: #0e1111 !important;
@@ -5592,7 +5358,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           .bv_button_buttonMinimalist:visited {
                             color: #036ad8 !important;
                             font-family: Roboto, Arial, sans-serif !important;
@@ -5601,11 +5366,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             font-style: normal !important;
                             text-decoration: underline !important;
                           }
-
                           .bv_ms_focusable:focus {
                             border: 1px solid blue !important;
                           }
-
                           .bv_offscreen_text {
                             position: absolute !important;
                             width: 1px !important;
@@ -5615,7 +5378,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             padding: 0 !important;
                             border: 0 !important;
                           }
-
                           .bv_ms_focusable:focus {
                             border: 1px solid blue !important;
                           }
@@ -5717,6 +5479,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                       "></stop>
                                 </linearGradient>
                               </defs>
+                            
                             </svg>
                           </div>
                           <div itemprop="ratingValue" class="bv_avgRating_component_container notranslate"> 4.9 </div>
@@ -5780,13 +5543,11 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               <h2 class="desc-title" style="color: #ffd900f2; text-shadow: 0 0 15px #ffd900f2; font-size: 28px; letter-spacing: 2px; margin-bottom: 25px; text-transform: uppercase;"> BOSANGKA | Sarana Togel & Toto Online Terpercaya di Asia </h2>
               <div class="pdp-desc" style="color: #fffccc;text-justify:inner-word; line-height: 1.7; font-size: 16px;">
                 <p> <span style="color: #ffd700;"><a style="color: #ffd700;" href="###/
-">LUNATOGEL</a></span> menghadirkan platform dengan informasi yang diperbarui secara berkala, didukung sistem yang stabil, tampilan responsif, serta akses yang mudah digunakan untuk memberikan pengalaman yang lebih nyaman bagi setiap pengguna.</p>
+">BOSANGKA</a></span> merupakan sarana togel dan toto online terpercaya di Asia yang menghadirkan informasi pasaran secara berkala, akses yang mudah, tampilan responsif, serta navigasi sederhana untuk memberikan pengalaman penggunaan yang praktis dan nyaman.</p>
                   <span class="value"></span>
                 </p>
               </div>
             </div>
-
-
                   <div class="content FAQ">
         <section style="
       border-top: 2px solid #ffd700;
@@ -5809,7 +5570,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   position:relative;
   overflow:hidden;
 ">
-
   <div style="
     position:absolute;
     top:-80px;
@@ -5819,7 +5579,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     background:radial-gradient(circle,rgba(255, 221, 0, 0.28),transparent 70%);
     filter:blur(10px);
   "></div>
-
   <h2 style="
     text-align:center;
     font-size:32px;
@@ -5830,73 +5589,70 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     text-transform:uppercase;
     text-shadow:0 0 15px #ffd700;
   ">
-    PERTANYAAN SEPUTAR LUNATOGEL
-  </h2>
-  <div class="faq-box">
-    <strong>Apa itu LUNATOGEL??</strong>
-    <p>
-      LUNATOGEL adalah rekomendasi situs togel terbaik yang menghadirkan fitur slot gacor hari ini dengan sistem permainan yang transparan, aman, dan nyaman digunakan.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Mengapa LUNATOGEL menjadi rekomendasi situs togel terbaik??</strong>
-    <p>
-      LUNATOGEL menjadi pilihan banyak pengguna karena menawarkan sistem permainan yang transparan, akses yang mudah, layanan profesional, serta pilihan permainan yang lengkap.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Apa keunggulan fitur slot gacor hari ini di LUNATOGEL??</strong>
-    <p>
-      LUNATOGEL menyediakan fitur slot gacor hari ini dengan koleksi permainan populer, performa server yang stabil, dan pengalaman bermain yang lebih optimal.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Bagaimana sistem permainan di LUNATOGEL??</strong>
-    <p>
-      LUNATOGEL menggunakan sistem permainan yang transparan dan dirancang untuk memberikan pengalaman bermain yang adil, nyaman, serta mudah diakses oleh seluruh pengguna.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Apakah LUNATOGEL memiliki akses yang mudah??</strong>
-    <p>
-      Ya, LUNATOGEL menyediakan akses yang cepat dan mudah sehingga pengguna dapat menikmati seluruh fitur melalui smartphone, tablet, maupun desktop tanpa kendala.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Mengapa banyak pemain memilih LUNATOGEL??</strong>
-    <p>
-      Banyak pemain memilih LUNATOGEL karena menghadirkan situs togel terpercaya, fitur slot gacor hari ini, sistem permainan yang transparan, serta layanan yang responsif.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Apakah LUNATOGEL aman digunakan??</strong>
-    <p>
-      Ya, LUNATOGEL didukung sistem keamanan modern yang membantu menjaga data pengguna dan memberikan kenyamanan selama bermain maupun bertransaksi.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Apakah LUNATOGEL cocok untuk pemain baru??</strong>
-    <p>
-      Ya, LUNATOGEL dirancang agar mudah digunakan oleh pemain baru maupun berpengalaman dengan navigasi sederhana, akses cepat, dan pilihan permainan yang lengkap.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Bagaimana pengalaman bermain di LUNATOGEL??</strong>
-    <p>
-      LUNATOGEL menghadirkan pengalaman bermain yang nyaman melalui sistem yang stabil, permainan yang transparan, akses mudah, dan berbagai pilihan permainan favorit setiap hari.
-    </p>
-  </div>
-  <div class="faq-box">
-    <strong>Apa yang membuat LUNATOGEL berbeda dari platform lainnya??</strong>
-    <p>
-      LUNATOGEL memadukan rekomendasi situs togel terbaik, fitur slot gacor hari ini, sistem permainan yang transparan, akses yang mudah, serta keamanan yang baik dalam satu platform.
-    </p>
-  </div>
-  </div>
+    PERTANYAAN SEPUTAR BOSANGKA
+  <h2>FAQ BOSANGKA</h2>
+<div class="faq-box">
+  <strong>Apa itu BOSANGKA?</strong>
+  <p>
+    BOSANGKA adalah sarana togel dan toto online yang menyediakan akses ke berbagai pilihan permainan dengan sistem yang mudah digunakan, informasi yang jelas, serta pengalaman bermain yang nyaman bagi pengguna di Asia.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Mengapa BOSANGKA menjadi sarana togel dan toto online terpercaya di Asia?</strong>
+  <p>
+    BOSANGKA mengutamakan akses yang mudah, sistem yang transparan, informasi permainan yang jelas, serta layanan yang dirancang untuk memberikan pengalaman pengguna yang nyaman dan konsisten.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Apa saja permainan yang tersedia di BOSANGKA?</strong>
+  <p>
+    BOSANGKA menyediakan berbagai pilihan togel dan toto online dengan beragam pasaran dan jenis permainan yang dapat disesuaikan dengan preferensi pengguna.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Apakah BOSANGKA mudah diakses?</strong>
+  <p>
+    Ya. BOSANGKA dirancang dengan akses yang praktis dan responsif sehingga dapat digunakan melalui berbagai perangkat seperti smartphone, tablet, maupun desktop.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Apakah BOSANGKA menyediakan akses togel dan toto online untuk pengguna di Asia?</strong>
+  <p>
+    BOSANGKA hadir sebagai sarana togel dan toto online yang ditujukan untuk pengguna di kawasan Asia dengan akses yang praktis dan navigasi yang sederhana.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Bagaimana sistem permainan togel dan toto online di BOSANGKA?</strong>
+  <p>
+    BOSANGKA mengutamakan sistem yang transparan dengan informasi permainan yang mudah dipahami, sehingga pengguna dapat mengetahui pilihan permainan dan ketentuan yang berlaku sebelum bermain.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Apakah BOSANGKA aman digunakan?</strong>
+  <p>
+    BOSANGKA menerapkan langkah-langkah keamanan untuk membantu menjaga akses dan informasi pengguna serta memberikan pengalaman penggunaan yang lebih nyaman.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Apakah BOSANGKA cocok untuk pengguna baru?</strong>
+  <p>
+    Ya. Dengan tampilan dan navigasi yang sederhana, BOSANGKA dapat digunakan oleh pengguna baru maupun pengguna berpengalaman yang mencari sarana togel dan toto online dengan akses yang praktis.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Apa keunggulan BOSANGKA dibandingkan sarana togel online lainnya?</strong>
+  <p>
+    BOSANGKA menggabungkan akses yang mudah, pilihan togel dan toto online yang beragam, informasi yang jelas, sistem yang transparan, serta pengalaman penggunaan yang praktis dalam satu sarana online.
+  </p>
+</div>
+<div class="faq-box">
+  <strong>Mengapa memilih BOSANGKA sebagai sarana togel dan toto online?</strong>
+  <p>
+    BOSANGKA menjadi pilihan bagi pengguna yang mencari sarana togel dan toto online dengan navigasi sederhana, akses cepat, pilihan permainan yang beragam, serta informasi yang mudah dipahami.
+  </p>
+</div>
   
-
 </section>
-
 <style>
 .faq-box{
   padding:22px 0;
@@ -5904,7 +5660,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   transition:all .35s ease;
   position:relative;
 }
-
 .faq-box::before{
   content:'';
   position:absolute;
@@ -5917,15 +5672,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   transition:all .35s ease;
   box-shadow:0 0 15px #ffd700;
 }
-
 .faq-box:hover{
   transform:translateX(6px);
 }
-
 .faq-box:hover::before{
   height:70%;
 }
-
 .faq-box strong{
   display:block;
   margin-bottom:12px;
@@ -5935,144 +5687,120 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   letter-spacing:.3px;
   text-shadow:0 0 12px rgba(255, 238, 0, 0.8);
 }
-
 .faq-box p{
   margin:0;
   font-size:15.8px;
   line-height:1.9;
   color:#fffdd6;
 }
-
 @media(max-width:768px){
   section{
     padding:22px !important;
   }
-
   h2{
     font-size:24px !important;
   }
-
   .faq-box strong{
     font-size:16px;
   }
-
   .faq-box p{
     font-size:14.5px;
     line-height:1.8;
   }
 }
 </style>
-
             <!-- Review Section -->
 <div class="review-wrapper">
-
   <div class="review-glow"></div>
-
   <h3 class="review-title">
-    Testimoni Pengguna LUNATOGEL
+    Testimoni Pengguna BOSANGKA
   </h3>
 <!-- Review Card -->
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="" alt="User Avatar">
+        <img src="https://gambarbos.io/img/2026/agustus/25/favicon.webp" alt="User Avatar">
       </div>
-
       <div class="review-user">
         <strong>Rian Prasetya • Bandung</strong>
         <div class="review-stars">★★★★★</div>
-        <div class="review-date"><small>2026-06-22</small></div>
+        <div class="review-date"><small>2026-08-22</small></div>
       </div>
     </div>
-
     <h4></h4>
-
     <p>
-      LUNATOGEL menurut saya jadi salah satu situs yang paling nyaman digunakan. Aksesnya cepat, pilihan slot gacor hari ini lengkap, dan tampilannya simpel sehingga mudah dipakai setiap hari.
+      BOSANGKA menurut saya jadi salah satu situs yang paling nyaman digunakan. Aksesnya cepat, pilihan Togel terbaik hari ini lengkap, dan tampilannya simpel sehingga mudah dipakai setiap hari.
     </p>
   </div>
 <!-- Review Card -->
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="" alt="User Avatar">
+        <img src="https://gambarbos.io/img/2026/agustus/25/favicon.webp" alt="User Avatar">
       </div>
-
       <div class="review-user">
         <strong>Fajar Saputra • Bandung</strong>
         <div class="review-stars">★★★★★</div>
-        <div class="review-date"><small>2026-06-17</small></div>
+        <div class="review-date"><small>2026-08-17</small></div>
       </div>
     </div>
-
     <h4></h4>
-
     <p>
-      Sudah cukup lama menggunakan LUNATOGEL dan sejauh ini puas. Sistemnya responsif, proses deposit maupun withdraw berjalan lancar, serta semua fitur mudah dipahami bahkan untuk pengguna baru.
+      Sudah cukup lama menggunakan BOSANGKA dan sejauh ini puas. Sistemnya responsif, proses deposit maupun withdraw berjalan lancar, serta semua fitur mudah dipahami bahkan untuk pengguna baru.
     </p>
   </div>
 <!-- Review Card -->
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="" alt="User Avatar">
+        <img src="https://gambarbos.io/img/2026/agustus/25/favicon.webp" alt="User Avatar">
       </div>
-
       <div class="review-user">
         <strong>Bagus Kurniawan • Bandung</strong>
         <div class="review-stars">★★★★★</div>
-        <div class="review-date"><small>2026-06-13</small></div>
+        <div class="review-date"><small>2026-08-13</small></div>
       </div>
     </div>
-
     <h4></h4>
-
     <p>
-      Yang saya suka dari LUNATOGEL adalah performa situsnya yang stabil. Mau main lewat HP atau laptop tetap lancar, ditambah pilihan togel dan slot yang tersedia cukup lengkap.
+      Yang saya suka dari BOSANGKA adalah performa situsnya yang stabil. Mau main lewat HP atau laptop tetap lancar, ditambah pilihan togel dan togel yang tersedia cukup lengkap.
     </p>
   </div>
 <!-- Review Card -->
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="" alt="User Avatar">
+        <img src="https://gambarbos.io/img/2026/agustus/25/favicon.webp" alt="User Avatar">
       </div>
-
       <div class="review-user">
         <strong>Kevin Ramadhan • Bandung</strong>
         <div class="review-stars">★★★★★</div>
-        <div class="review-date"><small>2026-06-08</small></div>
+        <div class="review-date"><small>2026-08-08</small></div>
       </div>
     </div>
-
     <h4></h4>
-
     <p>
-      Menurut saya LUNATOGEL punya navigasi yang rapi dan pengalaman bermain yang nyaman. Proses aksesnya ringan, transaksi cepat, dan sistem permainannya terasa konsisten setiap kali digunakan.
+      Menurut saya BOSANGKA punya navigasi yang rapi dan pengalaman bermain yang nyaman. Proses aksesnya ringan, transaksi cepat, dan sistem permainannya terasa konsisten setiap kali digunakan.
     </p>
   </div>
 <!-- Review Card -->
   <div class="review-card">
     <div class="review-top">
       <div class="review-avatar">
-        <img src="" alt="User Avatar">
+        <img src="https://gambarbos.io/img/2026/agustus/25/favicon.webp" alt="User Avatar">
       </div>
-
       <div class="review-user">
         <strong>Andika Firmansyah • Bandung</strong>
         <div class="review-stars">★★★★★</div>
-        <div class="review-date"><small>2026-06-03</small></div>
+        <div class="review-date"><small>2026-08-03</small></div>
       </div>
     </div>
-
     <h4></h4>
-
     <p>
-      LUNATOGEL layak direkomendasikan buat yang mencari situs dengan akses mudah dan layanan yang baik. Slot gacor hari ini selalu tersedia, tampilannya modern, dan keseluruhan platform terasa nyaman digunakan.
+      BOSANGKA layak direkomendasikan buat yang mencari situs dengan akses mudah dan layanan yang baik. Togel terbaik hari ini selalu tersedia, tampilannya modern, dan keseluruhan platform terasa nyaman digunakan.
     </p>
   </div>
 </div>
-
 <style>
 .review-wrapper{
   position:relative;
@@ -6087,7 +5815,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     0 0 40px rgba(255, 234, 0, 0.18),
     inset 0 0 25px rgba(255,40,80,.08);
 }
-
 .review-glow{
   position:absolute;
   top:-120px;
@@ -6095,11 +5822,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   width:280px;
   height:280px;
   background:radial-gradient(circle,
-    rgba(255, 234, 0, 0.35),
+    rgba(255, 0, 0, 0.35),
     transparent 70%);
   filter:blur(15px);
 }
-
 .review-title{
   position:relative;
   text-align:center;
@@ -6110,10 +5836,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   text-transform:uppercase;
   letter-spacing:1px;
   text-shadow:
-    0 0 10px #ffd700,
-    0 0 25px rgba(255, 230, 0, 0.55);
+    0 0 10px #ff0000,
+    0 0 25px rgba(255, 0, 0, 0.55);
 }
-
 .review-card{
   position:relative;
   background:
@@ -6123,13 +5848,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   padding:24px;
   margin-bottom:22px;
   border-radius:18px;
-  border:1px solid rgba(255, 227, 70, 0.28);
+  border:1px solid rgb(255, 70, 70);
   overflow:hidden;
   transition:all .4s ease;
   box-shadow:
-    0 0 20px rgba(255, 238, 0, 0.12);
+    0 0 20px rgb(255, 0, 0);
 }
-
 .review-card::before{
   content:'';
   position:absolute;
@@ -6142,18 +5866,15 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     transparent);
   transition:.45s ease;
 }
-
 .review-card:hover{
   transform:translateY(-6px) scale(1.01);
-  border-color:#ffe550;
+  border-color:#ff5050;
   box-shadow:
     0 0 35px rgba(255, 230, 0, 0.25);
 }
-
 .review-card:hover::before{
   width:100%;
 }
-
 .review-top{
   display:flex;
   align-items:center;
@@ -6161,56 +5882,48 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   position:relative;
   z-index:2;
 }
-
 .review-avatar{
   margin-right:18px;
 }
-
 .review-avatar img{
   width:62px;
   height:62px;
   border-radius:50%;
   object-fit:cover;
-  border:2px solid #ffe550;
+  border:2px solid #ff5050;
   box-shadow:
     0 0 18px rgba(255, 230, 0, 0.25);
   transition:.4s ease;
 }
-
 .review-card:hover .review-avatar img{
   transform:scale(1.08) rotate(2deg);
 }
-
 .review-user strong{
   display:block;
   font-size:17px;
-  color:#fee974;
+  color:#ff0400;
   margin-bottom:6px;
   letter-spacing:.3px;
 }
-
 .review-stars{
-  color:#ffd54a;
+  color:#ff4a4a;
   font-size:20px;
   margin-bottom:6px;
-  text-shadow:0 0 10px rgba(255,210,70,.8);
+  text-shadow:0 0 10px rgb(255, 0, 0);
 }
-
 .review-user small{
   color:#fff79f;
   font-size:13px;
 }
-
 .review-card h4{
   margin:12px 0 14px;
   font-size:19px;
-  color:#ffd343;
+  color:#ff0000;
   font-weight:800;
   position:relative;
   z-index:2;
   text-shadow:0 0 12px rgba(255, 230, 0, 0.45);
 }
-
 .review-card p{
   margin:0;
   line-height:1.9;
@@ -6219,34 +5932,26 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
   position:relative;
   z-index:2;
 }
-
 @media(max-width:768px){
-
   .review-wrapper{
     padding:24px;
   }
-
   .review-title{
     font-size:24px;
   }
-
   .review-card{
     padding:20px;
   }
-
   .review-user strong{
     font-size:15px;
   }
-
   .review-card h4{
     font-size:17px;
   }
-
   .review-card p{
     font-size:14.5px;
     line-height:1.8;
   }
-
 }
 </style>
         <div class="data item title" aria-labeledby="tab-label-bv_reviews-title" data-role="collapsible" id="tab-label-bv_reviews" role="tab" data-collapsible="true" aria-controls="bv_reviews" aria-selected="false" aria-expanded="false" tabindex="0">
@@ -6261,7 +5966,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     </main>
     <div class="page-bottom">
       <!-- FAQ Section -->
-
       <footer class="page-footer">
         <style>
           #html-body [data-pb-style="GP2CGTI"] {
@@ -6278,11 +5982,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             margin: 0;
             padding: 0;
           }
-
           #html-body [data-pb-style="V8YTJQU"] {
             display: none;
           }
-
           #html-body [data-pb-style="KJI99O5"],
           #html-body [data-pb-style="V8YTJQU"] {
             border-style: none;
@@ -6291,50 +5993,41 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             margin: 0;
             padding: 0;
           }
-
           block-search .actions .action.search {
             background: none !important;
             border: none !important;
             box-shadow: none !important;
           }
-
           /* Matikan pseudo-element icon bawaan */
           .block-search .actions .action.search::before,
           .block-search .actions .action.search::after {
             content: none !important;
             display: none !important;
           }
-
           #tab-label-bv_reviews .data.switch {
             display: inline-flex;
             align-items: center;
             /* INI KUNCINYA */
           }
-
           #tab-label-bv_reviews [data-bv-show="inline_rating"] {
             display: inline-flex;
             align-items: center;
             margin-left: 4px;
           }
-
           #tab-label-bv_reviews svg {
             display: block;
           }
-
           #tab-label-bv_reviews .bv_stars_component_container {
             line-height: 1;
           }
-
           .reviews {
             padding: 32px 0;
           }
-
           .reviews-title {
             font-size: 24px;
             font-weight: 600;
             margin-bottom: 24px;
           }
-
           .reviews-top {
             display: grid;
             grid-template-columns: 1.4fr 1fr 1.2fr;
@@ -6342,90 +6035,74 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             padding-bottom: 24px;
             border-bottom: 1px solid #e5e5e5;
           }
-
           .reviews-col {
             min-height: 100px;
           }
-
           .reviews-subtitle {
             font-size: 16px;
             font-weight: 600;
             margin-bottom: 8px;
           }
-
           .reviews-desc {
             font-size: 13px;
             color: #555;
             margin-bottom: 16px;
           }
-
           .rating-summary {
             display: flex;
             flex-direction: column;
             gap: 8px;
           }
-
           .rating-row {
             display: grid;
             grid-template-columns: 80px 1fr 24px;
             align-items: center;
             gap: 10px;
           }
-
           .rating-label {
             font-size: 13px;
           }
-
           .rating-bar {
             height: 10px;
             background: #d0d0d0;
             border-radius: 6px;
             overflow: hidden;
           }
-
           .rating-fill {
             height: 100%;
             background: #555;
           }
-
           .rating-count {
             font-size: 13px;
             text-align: right;
           }
-
           .overall-rating {
             display: flex;
             flex-direction: column;
             gap: 8px;
           }
-
           .overall-score {
             font-size: 48px;
             font-weight: 600;
             line-height: 1;
           }
-
           .overall-stars {
             font-size: 18px;
             letter-spacing: 2px;
           }
-
           .overall-link {
             font-size: 13px;
             color: #0066cc;
             text-decoration: none;
           }
-
           .overall-link:hover {
             text-decoration: underline;
           }
-
           .write-review-stars {
             display: flex;
             gap: 8px;
             margin: 8px 0 12px;
           }
-
           .star-box {
             width: 40px;
             height: 40px;
@@ -6436,30 +6113,25 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             font-size: 18px;
             cursor: pointer;
           }
-
           .write-review-note {
             font-size: 12px;
             color: #555;
             max-width: 220px;
           }
-
           .reviews-filter {
             padding: 24px 0;
             border-bottom: 1px solid #e5e5e5;
           }
-
           .reviews-filter-row {
             display: flex;
             align-items: center;
             justify-content: space-between;
             margin-bottom: 16px;
           }
-
           .reviews-filter-left {
             display: flex;
             gap: 16px;
           }
-
           .reviews-select {
             min-width: 160px;
             padding: 10px 12px;
@@ -6467,15 +6139,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             border: 1px solid #777;
             background: #fff;
           }
-
           .reviews-count {
             font-size: 13px;
           }
-
           .reviews-sort {
             display: flex;
           }
-
           /* =========================
             HARD FORCE TEXT COLOR (ANTI KETABRAK THEME)
             ========================= */
@@ -6483,14 +6152,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           .reviews-filter * {
             color: #003776 !important;
           }
-
           /* kalau ada theme yang set link jadi putih */
           .reviews-filter a,
           .reviews-filter a:visited,
           .reviews-filter a:hover {
             color: #003776 !important;
           }
-
           /* =========================
             DROPDOWN BASE
             ========================= */
@@ -6498,7 +6165,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             position: relative !important;
             display: inline-block !important;
           }
-
           /* TRIGGER */
           .reviews-filter .filter-trigger {
             min-width: 160px !important;
@@ -6514,7 +6180,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             cursor: pointer !important;
             box-sizing: border-box !important;
           }
-
           /* paksa juga anaknya (span/icon) */
           .reviews-filter .filter-trigger *,
           .reviews-filter .filter-trigger span,
@@ -6524,11 +6189,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             color: #003776 !important;
             fill: #003776 !important;
           }
-
           .reviews-filter .filter-trigger:hover {
             background-color: #f5f5f5 !important;
           }
-
           /* MENU */
           .reviews-filter .filter-menu {
             position: absolute !important;
@@ -6542,7 +6205,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             display: none;
             padding: 4px 0 !important;
           }
-
           /* OPTION */
           .reviews-filter .filter-option {
             width: 100% !important;
@@ -6559,7 +6221,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             cursor: pointer !important;
             box-sizing: border-box !important;
           }
-
           /* paksa anak option juga */
           .reviews-filter .filter-option *,
           .reviews-filter .filter-option span,
@@ -6569,11 +6230,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             color: #003776 !important;
             fill: #003776 !important;
           }
-
           .reviews-filter .filter-option:hover {
             background-color: #f0f0f0 !important;
           }
-
           /* ICON + */
           .reviews-filter .filter-plus {
             width: 14px !important;
@@ -6581,12 +6240,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             font-weight: 700 !important;
             color: #003776 !important;
           }
-
           /* selected (kalau kamu mau nanti) */
           .reviews-filter .filter-option.active {
             background-color: #f5f5f5 !important;
           }
-
           /* jangan pakai ::before kalau span-nya sudah berisi "+", biar gampang:
             nanti JS ganti textContent "+" -> "✓"
             */
@@ -6598,12 +6255,10 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             position: relative !important;
             z-index: 9999 !important;
           }
-
           .filter-dropdown {
             position: relative !important;
             overflow: visible !important;
           }
-
           .filter-menu {
             position: absolute !important;
             top: 100% !important;
@@ -6613,25 +6268,21 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             background: #fff !important;
             border: 1px solid #777 !important;
           }
-
           #bv_review_maincontainer,
           #bv_reviews,
           .data.item.content,
           .product.data.items {
             overflow: visible !important;
           }
-
           .reviews-filter-bottom {
             display: flex !important;
             align-items: center !important;
             justify-content: space-between !important;
             margin-top: 16px !important;
           }
-
           .reviews-sort .filter-trigger {
             min-width: 200px !important;
           }
-
           .review-item {
             display: flex !important;
             gap: 24px !important;
@@ -6639,72 +6290,59 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             color: #000 !important;
             border: none !important;
           }
-
           .review-left {
             min-width: 180px !important;
             font-weight: 600 !important;
           }
-
           .review-author {
             font-size: 14px !important;
           }
-
           .review-right {
             flex: 1 !important;
           }
-
           .review-header {
             display: block !important;
           }
-
           .review-rating {
             display: block !important;
           }
-
           .review-stars {
             display: block !important;
             font-size: 14px !important;
             letter-spacing: 1px !important;
             margin-bottom: 4px !important;
           }
-
           .review-title {
             display: block !important;
             font-weight: 600 !important;
             font-size: 14px !important;
             line-height: 1.4 !important;
           }
-
           .review-meta {
             display: block !important;
             margin-top: 6px !important;
           }
-
           .review-author-name {
             display: block !important;
             font-weight: 600 !important;
             font-size: 13px !important;
             color: #000 !important;
           }
-
           .review-date {
             display: block !important;
             font-size: 12px !important;
             color: #666 !important;
             margin-top: 2px !important;
           }
-
           .review-meta span:not(:last-child)::after {
             content: " · ";
           }
-
           .review-body {
             margin-top: 12px !important;
             font-size: 10px !important;
             line-height: 1.6 !important;
             color: #666 !important;
           }
-
           .review-translate {
             display: inline-block !important;
             margin-top: 8px !important;
@@ -6712,15 +6350,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             color: #0056d2 !important;
             text-decoration: none !important;
           }
-
           .review-translate:hover {
             text-decoration: underline !important;
           }
-
           .review-badges {
             margin-top: 12px !important;
           }
-
           .review-badge {
             display: inline-flex !important;
             align-items: center !important;
@@ -6731,11 +6366,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             font-size: 10px !important;
             color: #666 !important;
           }
-
           .review-badge img {
             height: 16px !important;
           }
-
           /* ===== ROW CONTAINER ===== */
           .reviews-filter-bottom {
             display: flex !important;
@@ -6746,20 +6379,17 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             border-radius: 4px !important;
             margin-top: 20px !important;
           }
-
           /* ===== COUNT TEXT ===== */
           #reviews-count {
             font-size: 14px !important;
             color: #000 !important;
             font-weight: 400 !important;
           }
-
           /* ===== PAGINATION WRAP ===== */
           .reviews-pagination {
             display: flex !important;
             gap: 8px !important;
           }
-
           /* ===== BUTTON BASE ===== */
           .reviews-pagination button {
             width: 40px !important;
@@ -6777,20 +6407,17 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             justify-content: center !important;
             padding: 0 !important;
           }
-
           /* ===== HOVER ===== */
           .reviews-pagination button:hover:not(:disabled) {
             border-color: #000 !important;
             background: #fff !important;
           }
-
           /* ===== DISABLED STATE ===== */
           .reviews-pagination button:disabled {
             opacity: 0.4 !important;
             cursor: not-allowed !important;
             background: #fff !important;
           }
-
           /* ===== ICON ALIGN FIX (kalau pakai entity ‹ ›) ===== */
           #prevPage,
           #nextPage {
@@ -6842,8 +6469,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                                 </div>
                                 <div class="field choice footer_subscription_consent">
                                   <div class="control">
-                                    <input type="checkbox" name="footer_subscription_consent" value="1" id="footer_subscription_consent" class="checkbox" data-validate="{required:true}" data-msg-required="Anda harus menyetujui kebijakan data LUNATOGEL Indonesia untuk melanjutkan" />
-                                    <label for="footer_subscription_consent" class="label"><span> Dengan memilih "Daftar Sekarang", saya menyetujui <a href="/privacy-policy" title="kebijakan keamanan data" target="_blank">kebijakan keamanan data</a> LUNATOGEL Indonesia</span></label>
+                                    <input type="checkbox" name="footer_subscription_consent" value="1" id="footer_subscription_consent" class="checkbox" data-validate="{required:true}" data-msg-required="Anda harus menyetujui kebijakan data BOSANGKA Indonesia untuk melanjutkan" />
+                                    <label for="footer_subscription_consent" class="label"><span> Dengan memilih "Daftar Sekarang", saya menyetujui <a href="/privacy-policy" title="kebijakan keamanan data" target="_blank">kebijakan keamanan data</a> BOSANGKA Indonesia</span></label>
                                     <div id="footer_subscription_consent-error" class="mage-error"></div>
                                   </div>
                                 </div>
@@ -6887,7 +6514,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           <ul>
                             <li>
                               <a href="###/
-">LUNATOGEL</a>
+">BOSANGKA</a>
                             </li>
                           </ul>
                         </div>
@@ -6895,7 +6522,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           <ul>
                             <li>
                               <a href="###/
-">LUNATOGEL RESMI</a>
+">BOSANGKA RESMI</a>
                             </li>
                           </ul>
                         </div>
@@ -6903,7 +6530,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           <ul>
                             <li>
                               <a id="shipping-info" href="###/
-">LUNATOGEL LOGIN</a>
+">BOSANGKA LOGIN</a>
                             </li>
                           </ul>
                         </div>
@@ -6911,7 +6538,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           <ul>
                             <li>
                               <a href="###/
-">LUNATOGEL LINK</a>
+">BOSANGKA LINK</a>
                             </li>
                           </ul>
                         </div>
@@ -6919,7 +6546,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           <ul>
                             <li>
                               <a href="###/
-">LUNATOGEL DAFTAR</a>
+">BOSANGKA DAFTAR</a>
                             </li>
                           </ul>
                         </div>
@@ -6927,7 +6554,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           <ul>
                             <li>
                               <a href="###/
-">LUNATOGEL LINK ALTERNATIF</a>
+">BOSANGKA LINK ALTERNATIF</a>
                             </li>
                           </ul>
                         </div>
@@ -6937,7 +6564,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                       .below-copyright~.widget.block {
                         display: none;
                       }
-
                       @media (max-width: 480px) {
                         div#codilar-product-listing-pagination .pagess .items .item:not([class*="pages-item"]) {
                           width: 25px;
@@ -6945,9 +6571,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                           line-height: 25px;
                         }
                       }
-
                       @media (min-width: 1024px) {
-
                         html div#codilar-product-listing-pagination .pagess .items .item .action.previous,
                         div#codilar-product-listing-pagination .pagess .items .item .action.next {
                           width: max-content;
@@ -6957,34 +6581,34 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                   </div>
                   <div class="links">
                     <div class="collapsible">
-                      <span class="title">Tentang LUNATOGEL</span>
+                      <span class="title">Tentang BOSANGKA</span>
                       <ul>
                         <li><a href="###/
-">LUNATOGEL</a></li>
+">BOSANGKA</a></li>
                         <li><a href="###/
-">LUNATOGEL LOGIN</a></li>
+">BOSANGKA LOGIN</a></li>
                         <li>
                           <a href="###/
-">LUNATOGEL LINK</a>
+">BOSANGKA LINK</a>
                         </li>
                         <li><a href="###/
-">LUNATOGEL DAFTAR</a></li>
+">BOSANGKA DAFTAR</a></li>
                         <li><a href="###/
-">LUNATOGEL RESMI</a></li>
+">BOSANGKA RESMI</a></li>
                       </ul>
                     </div>
                     <div class="collapsible">
-                      <span class="title">Layanan Pelanggan LUNATOGEL<br /></span>
+                      <span class="title">Layanan Pelanggan BOSANGKA<br /></span>
                       <ul>
                         <li><a href="###/
 ">FAQ</a></li>
                         <!--<li><a href="/size-guide-adidas-footwear">Panduan Ukuran</a></li>-->
                         <li>
                           <a href="###/
-">LUNATOGEL Bonus</a>
+">BOSANGKA Bonus</a>
                         </li>
                         <li><a href="###/
-">LUNATOGEL Live Chat</a></li>
+">BOSANGKA Live Chat</a></li>
                         <li><a href="/sitemap.xml">Sitemap</a></li>
                       </ul>
                     </div>
@@ -6992,29 +6616,29 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                       <span class="title">Link Populer<br /></span>
                       <ul>
                         <li><a href="###/
-">LUNATOGEL</a></li>
+">BOSANGKA</a></li>
                         <li><a href="###/
-">LUNATOGEL LOGIN</a></li>
+">BOSANGKA LOGIN</a></li>
                         <li>
                           <a href="###/
-">LUNATOGEL LINK</a>
+">BOSANGKA LINK</a>
                         </li>
                         <li>
                           <a href="###/
-">LUNATOGEL DAFTAR</a>
+">BOSANGKA DAFTAR</a>
                         </li>
                         <li><a href="###/
-">LUNATOGEL RESMI</a></li>
+">BOSANGKA RESMI</a></li>
                         <li><a href="###/
-">LUNATOGEL LINK ALTERNATIF</a></li>
+">BOSANGKA LINK ALTERNATIF</a></li>
                         <li><a href="###/
-">LUNATOGEL LOGIN ALTERNATIF</a></li>
+">BOSANGKA LOGIN ALTERNATIF</a></li>
                       </ul>
                     </div>
                     <div class="not-collapsible">
                       <div class="newsletter-box">
                         <div class="block newsletter">
-                          <span class="title">Daftar LUNATOGEL sekarang juga</span>
+                          <span class="title">Daftar BOSANGKA sekarang juga</span>
                           <form class="form subscribe" novalidate="novalidate" action="https://www.footlocker.id/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
                             <input type="hidden" name="form_key" value="Uohjpvp3ouiOqk0n" />
                             <div class="field newsletter newsletter-input-section">
@@ -7029,8 +6653,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
                             </div>
                             <div class="field choice footer_subscription_consent">
                               <div class="control">
-                                <input type="checkbox" name="footer_subscription_consent" value="1" id="footer_subscription_consent" class="checkbox" data-validate="{required:true}" data-msg-required="Anda harus menyetujui kebijakan data LUNATOGEL Indonesia untuk melanjutkan" />
-                                <label for="footer_subscription_consent" class="label"><span> Dengan memilih "Daftar Sekarang", saya menyetujui <a href="" title="kebijakan keamanan data" target="_blank">kebijakan keamanan data</a> LUNATOGEL Indonesia</span></label>
+                                <input type="checkbox" name="footer_subscription_consent" value="1" id="footer_subscription_consent" class="checkbox" data-validate="{required:true}" data-msg-required="Anda harus menyetujui kebijakan data BOSANGKA Indonesia untuk melanjutkan" />
+                                <label for="footer_subscription_consent" class="label"><span> Dengan memilih "Daftar Sekarang", saya menyetujui <a href="" title="kebijakan keamanan data" target="_blank">kebijakan keamanan data</a> BOSANGKA Indonesia</span></label>
                                 <div id="footer_subscription_consent-error" class="mage-error"></div>
                               </div>
                             </div>
@@ -7062,77 +6686,61 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             width: auto !important;
             min-width: 85px !important;
           }
-
           .payment_emi {
             display: none;
           }
-
           .faq-search-block .actions button {
             background: transparent !important;
             border: none !important;
           }
-
           .popup-newsletter .modal-inner-wrap .modal-header .action-close:before {
             color: #000;
           }
-
           .catalog-product-view .product .mobile-top-info .discount {
             display: none;
           }
-
           .row.footer-space {
             border-top: 1px solid #303030;
             border-bottom: 1px solid #303030;
           }
-
           body.catalog-product-view .page-wrapper>.page-bottom,
           body.checkout-cart-index .page-wrapper>.page-bottom {
             border-top: 1px solid #ccc;
           }
-
           body.catalog-product-view .product-addto-links {
             bottom: 0 !important;
           }
-
           @media screen and (max-width: 767px) {
             .submenu-inner .custom {
               right: 10px;
               top: 50px;
               z-index: 1;
             }
-
             .popup-newsletter .modal-inner-wrap input {
               margin-right: 0;
             }
-
             body.catalog-product-view {
               .product-addto-links {
                 bottom: 36px !important;
               }
-
               .product-options-bottom .box-tocart .fieldset .actions {
                 display: block !important;
               }
             }
           }
-
           #whatsapp {
             display: none;
           }
-
           .fa-whatsapp {
             display: none;
           }
-
           .block-authentication .actions-toolbar {
             padding-top: 20px;
           }
-
           .clients-grid.grid-2 li {
             width: 50%;
             padding: 25px 0;
           }
-
           .clients-grid li,
           .testimonials-grid li {
             float: left;
@@ -7140,7 +6748,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             width: 20%;
             padding: 20px 0;
           }
-
           clients-grid li:before,
           .testimonials-grid li:before {
             height: 100%;
@@ -7148,7 +6755,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             left: -1px;
             border-left: 1px dashed #ddd;
           }
-
           .clients-grid li:after,
           .testimonials-grid li:after {
             width: 100%;
@@ -7158,11 +6764,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             bottom: -1px;
             border-bottom: 1px dashed #ddd;
           }
-
           .clients-grid li a img {
             width: 100%;
           }
-
           .clients-grid li:before,
           .testimonials-grid li:before {
             height: 100%;
@@ -7170,7 +6774,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             left: -1px;
             border-left: 1px dashed #ddd;
           }
-
           .clients-grid li a,
           .clients-grid li img {
             display: block;
@@ -7178,13 +6781,11 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             margin-left: auto;
             margin-right: auto;
           }
-
           .custom {
             position: absolute;
             right: 90px;
             top: 30px;
           }
-
           .custom,
           .custom:hover {
             right: 20px;
@@ -7193,102 +6794,82 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             border: none !important;
             background: none !important;
           }
-
           .custom:after {
             content: "\e616";
             color: #000;
             font-family: "luma-icons";
           }
-
           @media (max-width: 767px) {
             body.catalog-product-view .product.info.detailed .data.item.title+.data.item.content {
               display: none !important;
             }
-
             body.catalog-product-view .product.info.detailed .data.item.title.active+.data.item.content {
               display: block !important;
             }
           }
-
           @media (max-width: 767px) {
             .footer-container .container .row .collapsible>span:after {
               color: #fff !important;
             }
           }
-
           .sale .nav-anchor span {
             color: #ffd700 !important;
           }
-
           .sp-custom-70-1710212255573 span {
             color: #ffd700 !important;
           }
-
           @media (max-width: 767px) {
             body.account .page-wrapper .page-main .columns .column .form-wishlist-items .products-grid .product-items .product-item .product-item-info .product-item-inner .product-item-actions .edit {
               margin-right: 15px;
             }
           }
-
           @media (min-width: 1024px) and (max-width: 1200px) {
             body.catalog-product-view .product.media .closer-look {
               bottom: 80px;
             }
           }
-
           @media (min-width: 768px) {
             .cms-index-index .custom-slider .owl-stage-outer .owl-item {
               max-width: 100%;
             }
-
             body.catalog-product-view .column.main .sticky-gall-wrap .product.media .fotorama__wrap .fotorama__stage .fotorama__arr {
               right: 10px !important;
             }
-
             body.theme-pearl.catalog-product-view.page-layout-1column .product-info-main {
               width: 39%;
             }
           }
-
           .checkout-cart-index #maincontent .block.crosssell {
             border: 0;
           }
-
           .checkout-cart-index #maincontent .block.crosssell div[aria-labelledby="block-crosssell-heading"] .products-grid .product-item .product-item-details .product-item-actions .actions-secondary a.towishlist {
             right: 8px !important;
             top: 15px !important;
           }
-
           div#layer-product-list>.amasty-label-container img {
             display: none !important;
           }
-
           .catalog-category-view .product-item .product-item-info .product-item-details .price-box.price-final_price .special-price,
           .catalog-category-view .product-item .product-item-info .product-item-details .price-box.price-final_price .old-price {
             display: inline-block !important;
           }
-
           .catalogsearch-result-index .product-item .product-item-info .product-item-details .price-box.price-final_price .special-price,
           .catalogsearch-result-index .product-item .product-item-info .product-item-details .price-box.price-final_price .old-price {
             display: inline-block !important;
           }
-
           @media only screen and (min-width: 768px) {
-
             .catalog-category-view .category-view .page-title-wrapper,
             .catalogsearch-result-index .category-view .page-title-wrapper,
             .catalogsearch-advanced-result .category-view .page-title-wrapper,
             .cms-surprise-drop-event .category-view .page-title-wrapper {
               max-width: 1650px;
             }
-
             .catalog-category-view.page-products .page-wrapper .breadcrumbs,
             .catalogsearch-result-index.page-products .page-wrapper .breadcrumbs,
             .catalogsearch-advanced-result.page-products .page-wrapper .breadcrumbs {
               max-width: 1650px !important;
             }
           }
-
           @media (min-width: 640px) {
             .custom {
               right: 20px;
@@ -7326,7 +6907,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
     "
   >
 </div>
-          <span>2026 © LUNATOGEL.COM. ALL RIGHTS RESERVED.</span>
+          <span>2026 © BOSANGKA.COM. ALL RIGHTS RESERVED.</span>
         </small>
         <div class="below-copyright">
           <div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true">
@@ -7353,7 +6934,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               <div class="sticky-size">
                 <!-- <p>Size :<span><a href="">Select size</a></span></p> -->
                 <span class="sticky-size-sel">Game: </span>
-                <span id="sticky_current_size"><a href="$$$" class="sticky_nosize" alt="Mohon Pilih">LUNATOGEL RESMI</a></span>
+                <span id="sticky_current_size"><a href="$$$" class="sticky_nosize" alt="Mohon Pilih">BOSANGKA RESMI</a></span>
               </div>
             </div>
           </div>
@@ -7361,18 +6942,18 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             <div class="price-box price-final_price" data-role="priceBox" data-product-id="52165" data-price-box="product-id-52165">
               <div class="price-wrapper-container">
                 <span class="price-container price-final_price tax weee">
-                  <span id="product-price-52165" data-price-amount="9999" data-price-type="finalPrice" class="price-wrapper"><span class="price">Rp. 10.000</span></span>
+                  <span id="product-price-52165" data-price-amount="9999" data-price-type="finalPrice" class="price-wrapper"><span class="price">Rp. 5.000</span></span>
                 </span>
               </div>
             </div>
             <div class="buynow-button">
               <button type="submit" title="LOGIN" id="buy-now" class="action primary buynow-btn-sticky">
-                <a href="$$$" class="login"><span>LOGIN</span></a>
+                <a href="$$$" class="login"><span>LOGIN BOSANGKA</span></a>
               </button>
             </div>
             <div class="buynow-button">
               <button type="submit" title="DAFTAR" id="buy-now" class="action primary buynow-btn-sticky">
-                <a href="$$$" class="login"><span>DAFTAR</span></a>
+                <a href="$$$" class="login"><span>DAFTAR BOSANGKA</span></a>
               </button>
             </div>
           </div>
@@ -7644,7 +7225,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@context": "http:\/\/schema.org",
         "@type": "WebSite",
         "url": "https:\/\/www.footlocker.id\/",
-        "name": "LUNATOGEL"
+        "name": "BOSANGKA"
       }
     </script>
     <script type="application/ld+json">
@@ -7685,12 +7266,12 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@type": "WebPage",
         "speakable": {
           "@type": "SpeakableSpecification",
-          "cssSelector": [".description"],
+          "cssSelector": ["description"],
           "xpath": ["\/html\/head\/title"]
         }
       }
     </script>
-    <!-- Schema JSON untuk LUNATOGEL -->
+    <!-- Schema JSON untuk BOSANGKA -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org/",
@@ -7698,17 +7279,17 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "name": "BOSANGKA | Sarana Togel & Toto Online Terpercaya di Asia",
         "url": "###/
 ",
-        "sku": "LUNATOGEL-LINK",
+        "sku": "BOSANGKA-LINK",
         "image": ["https://gambarbos.io/img/2026/agustus/25/favicon.webp"],
         "description": "BOSANGKA menghadirkan sarana informasi togel dan toto online Asia dengan konten lengkap, informasi terstruktur, serta akses mudah untuk menemukan berbagai informasi terbaru.",
         "brand": {
           "@type": "Organization",
-          "name": "LUNATOGEL"
+          "name": "BOSANGKA"
         },
         "offers": {
           "@type": "Offer",
           "name": "BOSANGKA | Sarana Togel & Toto Online Terpercaya di Asia",
-          "sku": "LUNATOGEL-LOGIN",
+          "sku": "BOSANGKA-LOGIN",
           "price": "7777",
           "priceCurrency": "IDR",
           "availability": "https://schema.org/InStock"
@@ -7722,7 +7303,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "name": "BOSANGKA | Sarana Togel & Toto Online Terpercaya di Asia",
         "image": "https://gambarbos.io/img/2026/agustus/25/saranatogel.webp",
         "description": "BOSANGKA menghadirkan sarana informasi togel dan toto online Asia dengan konten lengkap, informasi terstruktur, serta akses mudah untuk menemukan berbagai informasi terbaru.",
-        "sku": "LUNATOGEL LINK",
+        "sku": "BOSANGKA LINK",
         "offers": {
           "@type": "Offer",
           "priceCurrency": "IDR",
@@ -7742,7 +7323,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "@type": "AggregateRating",
           "itemReviewed": {
             "@type": "IndividualProduct",
-            "name": "LUNATOGEL"
+            "name": "BOSANGKA"
           },
           "ratingValue": "4.9",
           "reviewCount": 888888,
@@ -7760,7 +7341,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "item": {
             "@id": "###/
 ",
-            "name": "LUNATOGEL"
+            "name": "BOSANGKA"
           }
         }, {
           "@type": "ListItem",
@@ -7768,7 +7349,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "item": {
             "@id": "###/
 ",
-            "name": "LUNATOGEL LOGIN"
+            "name": "BOSANGKA LOGIN"
           }
         }, {
           "@type": "ListItem",
@@ -7776,7 +7357,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "item": {
             "@id": "###/
 ",
-            "name": "LUNATOGEL LINK"
+            "name": "BOSANGKA LINK"
           }
         }, {
           "@type": "ListItem",
@@ -7784,7 +7365,7 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           "item": {
             "@id": "###/
 ",
-            "name": "LUNATOGEL DAFTAR"
+            "name": "BOSANGKA DAFTAR"
           }
         }]
       }
@@ -7795,15 +7376,15 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         "@type": "Organization",
         "@id": "###/
 ",
-        "name": "LUNATOGEL",
-        "alternateName": "LUNATOGEL",
+        "name": "BOSANGKA",
+        "alternateName": "BOSANGKA",
         "url": "###/
 ",
         "review": [{
           "@type": "Review",
           "dateCreated": "2026-02-23T11:30:22+00:00",
           "datePublished": "2026-02-23T12:45:77+00:00",
-          "headline": "LUNATOGEL",
+          "headline": "BOSANGKA",
           "reviewBody": "Link Alternatif Resmi Jalur Login Bebas Hambatan",
           "reviewRating": {
             "@type": "Rating",
@@ -7813,13 +7394,13 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           },
           "author": {
             "@type": "Person",
-            "name": "LUNATOGEL - Jakarta"
+            "name": "BOSANGKA - Jakarta"
           }
         }, {
           "@type": "Review",
           "dateCreated": "2026-02-23T13:23:37+00:00",
           "datePublished": "2026-02-23T13:45:14+00:00",
-          "headline": "LUNATOGEL LOGIN",
+          "headline": "BOSANGKA LOGIN",
           "reviewBody": "Link Alternatif Resmi",
           "reviewRating": {
             "@type": "Rating",
@@ -7829,14 +7410,14 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           },
           "author": {
             "@type": "Person",
-            "name": "LUNATOGEL- Surabaya"
+            "name": "BOSANGKA- Surabaya"
           }
         }, {
           "@type": "Review",
           "dateCreated": "2026-02-23T12:45:00+00:00",
           "datePublished": "2026-02-23T11:20:05+00:00",
-          "headline": "Link LUNATOGEL",
-          "reviewBody": "LUNATOGEL Link Alternatif Resmi.",
+          "headline": "Link BOSANGKA",
+          "reviewBody": "BOSANGKA Link Alternatif Resmi.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": 5,
@@ -7845,17 +7426,98 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           },
           "author": {
             "@type": "Person",
-            "name": "LUNATOGEL - Bandung"
+            "name": "BOSANGKA - Bandung"
           }
         }]
       }
-    </script>
     <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Apa itu LUNATOGEL?","acceptedAnswer":{"@type":"Answer","text":"LUNATOGEL adalah rekomendasi situs togel terbaik yang menghadirkan fitur slot gacor hari ini dengan sistem permainan yang transparan, aman, dan nyaman digunakan."}},{"@type":"Question","name":"Mengapa LUNATOGEL menjadi rekomendasi situs togel terbaik?","acceptedAnswer":{"@type":"Answer","text":"LUNATOGEL menjadi pilihan banyak pengguna karena menawarkan sistem permainan yang transparan, akses yang mudah, layanan profesional, serta pilihan permainan yang lengkap."}},{"@type":"Question","name":"Apa keunggulan fitur slot gacor hari ini di LUNATOGEL?","acceptedAnswer":{"@type":"Answer","text":"LUNATOGEL menyediakan fitur slot gacor hari ini dengan koleksi permainan populer, performa server yang stabil, dan pengalaman bermain yang lebih optimal."}},{"@type":"Question","name":"Bagaimana sistem permainan di LUNATOGEL?","acceptedAnswer":{"@type":"Answer","text":"LUNATOGEL menggunakan sistem permainan yang transparan dan dirancang untuk memberikan pengalaman bermain yang adil, nyaman, serta mudah diakses oleh seluruh pengguna."}},{"@type":"Question","name":"Apakah LUNATOGEL memiliki akses yang mudah?","acceptedAnswer":{"@type":"Answer","text":"Ya, LUNATOGEL menyediakan akses yang cepat dan mudah sehingga pengguna dapat menikmati seluruh fitur melalui smartphone, tablet, maupun desktop tanpa kendala."}},{"@type":"Question","name":"Mengapa banyak pemain memilih LUNATOGEL?","acceptedAnswer":{"@type":"Answer","text":"Banyak pemain memilih LUNATOGEL karena menghadirkan situs togel terpercaya, fitur slot gacor hari ini, sistem permainan yang transparan, serta layanan yang responsif."}},{"@type":"Question","name":"Apakah LUNATOGEL aman digunakan?","acceptedAnswer":{"@type":"Answer","text":"Ya, LUNATOGEL didukung sistem keamanan modern yang membantu menjaga data pengguna dan memberikan kenyamanan selama bermain maupun bertransaksi."}},{"@type":"Question","name":"Apakah LUNATOGEL cocok untuk pemain baru?","acceptedAnswer":{"@type":"Answer","text":"Ya, LUNATOGEL dirancang agar mudah digunakan oleh pemain baru maupun berpengalaman dengan navigasi sederhana, akses cepat, dan pilihan permainan yang lengkap."}},{"@type":"Question","name":"Bagaimana pengalaman bermain di LUNATOGEL?","acceptedAnswer":{"@type":"Answer","text":"LUNATOGEL menghadirkan pengalaman bermain yang nyaman melalui sistem yang stabil, permainan yang transparan, akses mudah, dan berbagai pilihan permainan favorit setiap hari."}},{"@type":"Question","name":"Apa yang membuat LUNATOGEL berbeda dari platform lainnya?","acceptedAnswer":{"@type":"Answer","text":"LUNATOGEL memadukan rekomendasi situs togel terbaik, fitur slot gacor hari ini, sistem permainan yang transparan, akses yang mudah, serta keamanan yang baik dalam satu platform."}}]}
-    </script>
-    <script type="text/javascript">
-      document.querySelector("#cookie-status").style.display = "none";
-    </script>
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Apa itu BOSANGKA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA adalah sarana togel dan toto online yang menyediakan akses ke berbagai pilihan permainan dengan sistem yang mudah digunakan, informasi yang jelas, serta pengalaman bermain yang nyaman bagi pengguna di Asia."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mengapa BOSANGKA menjadi sarana togel dan toto online terpercaya di Asia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA mengutamakan akses yang mudah, sistem yang transparan, informasi permainan yang jelas, serta layanan yang dirancang untuk memberikan pengalaman pengguna yang nyaman dan konsisten."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa saja permainan yang tersedia di BOSANGKA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA menyediakan berbagai pilihan togel dan toto online dengan beragam pasaran dan jenis permainan yang dapat disesuaikan dengan preferensi pengguna."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah BOSANGKA mudah diakses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya. BOSANGKA dirancang dengan akses yang praktis dan responsif sehingga dapat digunakan melalui berbagai perangkat seperti smartphone, tablet, maupun desktop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah BOSANGKA menyediakan akses togel dan toto online untuk pengguna di Asia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA hadir sebagai sarana togel dan toto online yang ditujukan untuk pengguna di kawasan Asia dengan akses yang praktis dan navigasi yang sederhana."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bagaimana sistem permainan togel dan toto online di BOSANGKA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA mengutamakan sistem yang transparan dengan informasi permainan yang mudah dipahami, sehingga pengguna dapat mengetahui pilihan permainan dan ketentuan yang berlaku sebelum bermain."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah BOSANGKA aman digunakan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA menerapkan langkah-langkah keamanan untuk membantu menjaga akses dan informasi pengguna serta memberikan pengalaman penggunaan yang lebih nyaman."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apakah BOSANGKA cocok untuk pengguna baru?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ya. Dengan tampilan dan navigasi yang sederhana, BOSANGKA dapat digunakan oleh pengguna baru maupun pengguna berpengalaman yang mencari sarana togel dan toto online dengan akses yang praktis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Apa keunggulan BOSANGKA dibandingkan sarana togel online lainnya?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA menggabungkan akses yang mudah, pilihan togel dan toto online yang beragam, informasi yang jelas, sistem yang transparan, serta pengalaman penggunaan yang praktis dalam satu sarana online."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mengapa memilih BOSANGKA sebagai sarana togel dan toto online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "BOSANGKA menjadi pilihan bagi pengguna yang mencari sarana togel dan toto online dengan navigasi sederhana, akses cepat, pilihan permainan yang beragam, serta informasi yang mudah dipahami."
+      }
+    }
+  ]
+}
+</script>
     <script>
       require.config({
         map: {
@@ -8071,7 +7733,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             $(".product-addtocart-button-cls").attr("disabled", true);
           }
         });
-
         function waitForElement(query, callback) {
           var poops = setInterval(function() {
             if (document.querySelector(query)) {
@@ -8106,7 +7767,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           }, 200);
         }, );
         window.mfFbSelected = [];
-
         function initFbPixelCustomizeProduct(option) {
           let attributeId,
             optionId = false;
@@ -8261,7 +7921,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           function updatePreview() {
             gallery_api.first();
           }
-
           function updateImageCounter(current_index = 0) {
             if (current_index) {
               current_img = current_index;
@@ -8301,7 +7960,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
           });
           let isZoomed = false;
           let activeContainer = null;
-
           function createZoom(container, imgSrc) {
             const lens = $('<div class="zoom-lens"></div>');
             const result = $('<div class="zoom-result"></div>').css({
@@ -8317,7 +7975,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             $(".fotorama__arr").css("pointer-events", "none").css("opacity", "0.5").addClass("zoom-active");
             $(".closer-look").hide();
           }
-
           function removeZoom(container) {
             container.find(".zoom-lens, .zoom-result").remove();
             container.removeClass("zoomed");
@@ -8328,7 +7985,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             $(".fotorama__arr").css("pointer-events", "auto").css("opacity", "1").removeClass("zoom-active");
             $(".closer-look").show();
           }
-
           function handleZoomMove(e, container) {
             const lens = container.find(".zoom-lens");
             const result = container.find(".zoom-result");
@@ -8350,11 +8006,9 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
             const percentY = (lensY / container.height()) * 100;
             result.css("background-position", `${percentX}% ${percentY}%`);
           }
-
           function isMobileZoom() {
             return window.innerWidth <= 1024;
           }
-
           function isDesktop() {
             return window.innerWidth >= 1025;
           }
@@ -8416,7 +8070,6 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
               }
             }
             let lastCounterValue = "";
-
             function checkCounterChange() {
               const counter = document.querySelector(".gallery__counter");
               if (counter) {
@@ -8787,10 +8440,8 @@ c2.4,2.6,5.8,4.1,9.6,4.1c8.3,0,15.7-6.8,16.4-15.1l0,0c0.3-3.8-0.8-7.4-3.2-10.1C2
         <div class="unbxd-as-popular-product-name popular-title">
            
         </div>
-
     </div>
 </div>
-
 `;
           // Add price format configuration for currency formatting
           window.magento_unbxd_priceFormat = {
